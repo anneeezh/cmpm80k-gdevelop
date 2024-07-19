@@ -63,7 +63,490 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "Props.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Props.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Props2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Props2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tiles.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tiles.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tiles2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tiles2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Tiles.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "0x72_DungeonTilesetII_v1.7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "0x72_DungeonTilesetII_v1.7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "atlas_walls_low-16x16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "atlas_walls_low-16x16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "floor_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/floor_1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/frames/floor_1.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\frames\\floor_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/floor_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\floor_2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor Stairs.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor Stairs.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/25934c73cd9c63452b39190c8e956efc5ee97297dd6678db67a024b9a6f2de7e_Floor Stairs.png",
+          "name": "Floor Stairs.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Left.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/122ccb6cbff7036cb1770c4fba9b48fb7ceb268fb640858bb02890fac7b0ef75_Wall Left.png",
+          "name": "Wall Left.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Mid.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Mid.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/01fcd22a06c89162a3c09de6116a8acf4bcb7c4cd5ff26badf7179fb7cb5ba2e_Wall Mid.png",
+          "name": "Wall Mid.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png",
+          "name": "Wall Right.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Full Northeast Corner.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Full Northeast Corner.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/5c91581550c46db55e29d07f59bde09e6e6e1e8e98dac285acb35b9d9b2b6bc1_Full Northeast Corner.png",
+          "name": "Full Northeast Corner.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Full Northwest Corner.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Full Northwest Corner.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/3b3876e5212f7f9e4219d53b26ac790c01b4ec3f3068373aee20cdfd641c7d98_Full Northwest Corner.png",
+          "name": "Full Northwest Corner.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Full Southeast Corner.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Full Southeast Corner.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/d7f8af969cdd995c366f8a70dcc7b41eb9b4607c50a377f0e47c3dd77b7f8c24_Full Southeast Corner.png",
+          "name": "Full Southeast Corner.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Full Southwest Corner.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Full Southwest Corner.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/575260fd4fc4a84e41e3494c687a2f30310906b590e48454abedbe853bc1072c_Full Southwest Corner.png",
+          "name": "Full Southwest Corner.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Side Front Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Side Front Left.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/981532b1cea477b046b0477549abdc33d2bc3ca355d6ad2b86188ff243ba5aa7_Wall Side Front Left.png",
+          "name": "Wall Side Front Left.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Side Front Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Side Front Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/509ac6c780b2307be2b9c4e33cb37ce75a30232ef9f091ebf70227b6f86a7838_Wall Side Front Right.png",
+          "name": "Wall Side Front Right.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Column Mid.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Column Mid.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/8622a43262f73450315ecc2498d7e7c7cb50cd1e5b742b79a62d7ad96bf8482b_Column Mid.png",
+          "name": "Column Mid.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door Frame Left.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/bbb8679c4399519d494a1bd2e585ec1367e9f81f55d4b7694eb9de3772a95a06_Door Frame Left.png",
+          "name": "Door Frame Left.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door Frame Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/4b9347abf01a1a2b6e23947346536d91a9e51c848e9632350e4cf26b93c32718_Door Frame Right.png",
+          "name": "Door Frame Right.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Top.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door Frame Top.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/4a3138d7545570cb01da2ac880c7c56ace6ee337f3ff0b278b1402289c470296_Door Frame Top.png",
+          "name": "Door Frame Top.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door With Frame.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/ebf5a6faac331368eb5d32375b50e8ee52c095a95326cc70db6e1413683036d8_Door With Frame.png",
+          "name": "Door With Frame.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door With Frame_Closed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/b9627812567c6bda1c92b887facbddec9f82198cf42f9f0f41bbba4320bb49ff_Door With Frame_Closed.png",
+          "name": "Door With Frame_Closed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame_Open.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door With Frame_Open.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/a69e54aecf30566a9a5c1ae5a3ad81c9decc94cadf81b9565913254ee92024c4_Door With Frame_Open.png",
+          "name": "Door With Frame_Open.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Top Mid.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Top Mid.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/5184684939c0442ad0a933e03ee213b4702ab5c4f5bda3a1d7b12c4a3b6cc01d_Wall Top Mid.png",
+          "name": "Wall Top Mid.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Side Mid Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Side Mid Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/5edea6d20b994afc5cd75e8d9269cde1ed5a69ece6c81d05d2a826133eecc8a8_Wall Side Mid Right.png",
+          "name": "Wall Side Mid Right.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Side Mid Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Side Mid Left.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/ec2e73ceb7cd915803dc97a916fbce14ce0a900819d183c365000661e46d86e4_Wall Side Mid Left.png",
+          "name": "Wall Side Mid Left.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Top Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Top Left.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/3b49c7c71fc04de3c62d8b8085ab14516c0719b352ce6b3b686d7103253eb063_Wall Top Left.png",
+          "name": "Wall Top Left.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Column Top.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Column Top.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/dcc7ca28c20636da98b9d16ec2fffddd84806024982f3f5d0f161a4717a69d06_Wall Column Top.png",
+          "name": "Wall Column Top.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Top Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Top Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/c98438d8199cbd7e526b49a40b96dc7ff71252364dd04fa34f80f9a277ab02be_Wall Top Right.png",
+          "name": "Wall Top Right.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/18c854bc718edf41ce6f47be94c9759c8371e028f2eb3540b1051dde4a21f251_Door.png",
+          "name": "Door.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Door With Frame2.png\"}",
+        "name": "Door With Frame",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Open.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Open",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Open2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Open2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door With Frame2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Open3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Open3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Open4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Open4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Corner_Bottom Left.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Wall Corner_Bottom Left.png\",\"extension\":\".png\"}",
+        "name": "Wall Corner_Bottom Left.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/3f3215264c5e580c5684e7b7b9fed85d2fdc201eee6a993032b2b1387cbe46d5_Wall Corner_Bottom Left.png",
+          "name": "Wall Corner_Bottom Left.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Corner_Bottom Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Corner_Bottom Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/ff189cb18c9f98e6552cc5deccba432bc9789a044aba79b7c9960e26e0c693c9_Wall Corner_Bottom Right.png",
+          "name": "Wall Corner_Bottom Right.png"
+        }
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
