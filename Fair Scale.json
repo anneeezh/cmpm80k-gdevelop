@@ -702,7 +702,7 @@
         "alwaysLoaded": false,
         "file": "assets/Closed.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Closed.png\"}",
         "name": "Closed",
         "smoothed": false,
         "userAdded": true
@@ -711,7 +711,7 @@
         "alwaysLoaded": false,
         "file": "assets/Open5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Open5.png\"}",
         "name": "Open5",
         "smoothed": false,
         "userAdded": false
@@ -728,6 +728,33 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Objects/f5dc742c2f73291cb5a0232b7f4795155b09d3a9adf224ae51c11ce3b48f348e_Stairs.png",
           "name": "Stairs.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Top.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Door Frame Top.png\"}",
+        "name": "Door Frame Top",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Top2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Frame Top2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Top3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Frame Top3",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.7130377630690674,
+    "zoomFactor": 2.599152591679757,
     "windowMask": false
   },
   "objectsGroups": [
@@ -7072,7 +7072,7 @@
       "width": 0,
       "x": 128,
       "y": 512,
-      "zOrder": 151,
+      "zOrder": 150,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -7120,7 +7120,7 @@
       "width": 0,
       "x": 128,
       "y": 157,
-      "zOrder": 154,
+      "zOrder": 149,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -7216,7 +7216,7 @@
       "width": 0,
       "x": 672,
       "y": 365,
-      "zOrder": 155,
+      "zOrder": 149,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -7264,7 +7264,7 @@
       "width": 0,
       "x": 848,
       "y": 429,
-      "zOrder": 158,
+      "zOrder": 149,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -10502,6 +10502,54 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameTop",
+      "persistentUuid": "8b3fbf20-f798-42b3-afe1-f94a319241cc",
+      "width": 0,
+      "x": 128,
+      "y": 132,
+      "zOrder": 151,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameTop",
+      "persistentUuid": "00858130-3c21-4986-a043-2282c0d9ac01",
+      "width": 0,
+      "x": 672,
+      "y": 340,
+      "zOrder": 151,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameTop",
+      "persistentUuid": "cb5c169b-482e-4a55-bef8-8ca24caa9911",
+      "width": 0,
+      "x": 848,
+      "y": 405,
+      "zOrder": 151,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -12060,8 +12108,8 @@
     },
     {
       "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "95353beba2ced3bd23bd89c6c6a2de6ab05972ae016d263aa665df96f0bf699c",
-      "name": "Stairs",
+      "assetStoreId": "5fb3b1a59b0d119ad03c7e7aec31e3c7520c75a716ea82e2056b58e4c5d39f00",
+      "name": "DoorFrameTop",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -12069,16 +12117,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "Door Frame Top",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": true,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.025,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Stairs.png",
+                  "image": "Door Frame Top3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12095,19 +12144,19 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 25
                       },
                       {
-                        "x": 24,
-                        "y": 8
+                        "x": 32,
+                        "y": 25
                       },
                       {
-                        "x": 24,
-                        "y": 24
+                        "x": 32,
+                        "y": 32
                       },
                       {
                         "x": 0,
-                        "y": 24
+                        "y": 32
                       }
                     ]
                   ]
@@ -12183,14 +12232,14 @@
           },
           {
             "objectName": "DoorFrameLeft"
+          },
+          {
+            "objectName": "DoorFrameTop"
           }
         ]
       },
       {
         "objectName": "Knight_Player"
-      },
-      {
-        "objectName": "Stairs"
       }
     ]
   },
@@ -12246,6 +12295,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Player Direction:",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -12412,6 +12462,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Collision",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
