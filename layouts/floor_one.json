@@ -9,7 +9,7 @@
   "title": "",
   "v": 209,
   "uiSettings": {
-    "grid": true,
+    "grid": false,
     "gridType": "rectangular",
     "gridWidth": 16,
     "gridHeight": 16,
@@ -17,8 +17,8 @@
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
-    "snap": true,
-    "zoomFactor": 2.7773965524836095,
+    "snap": false,
+    "zoomFactor": 0.7130377630690674,
     "windowMask": false
   },
   "objectsGroups": [
@@ -41,9 +41,6 @@
           "name": "FullSoutheastCorner"
         },
         {
-          "name": "DoorFrameLeft"
-        },
-        {
           "name": "WallSideFrontRight"
         },
         {
@@ -59,16 +56,16 @@
           "name": "FullNorthwestCorner"
         },
         {
-          "name": "DoorFrameTop"
-        },
-        {
-          "name": "DoorFrameRight"
-        },
-        {
           "name": "FullSouthwestCorner"
         },
         {
           "name": "WallMid"
+        },
+        {
+          "name": "DoorFrameLeft"
+        },
+        {
+          "name": "DoorFrameRight"
         }
       ]
     },
@@ -1440,22 +1437,6 @@
       "x": 192,
       "y": 288,
       "zOrder": 96,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "DoorWithFrame",
-      "persistentUuid": "ac1acfdb-0faa-49b8-a407-3546473e421e",
-      "width": 0,
-      "x": 112,
-      "y": 157,
-      "zOrder": 97,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -3032,7 +3013,7 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 144,
+      "height": 156,
       "keepRatio": true,
       "layer": "",
       "name": "Floor_1",
@@ -3869,54 +3850,6 @@
       "keepRatio": true,
       "layer": "",
       "name": "WallSideMidRight",
-      "persistentUuid": "752e55c0-67f2-4781-8435-49ba9d7bb39d",
-      "width": 0,
-      "x": 448,
-      "y": 256,
-      "zOrder": 128,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "ffa50ae9-9ffa-4d15-8a25-d5191e850aae",
-      "width": 0,
-      "x": 448,
-      "y": 272,
-      "zOrder": 129,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "d915c943-52aa-47fd-98fd-2f1a0b6cb1f6",
-      "width": 0,
-      "x": 448,
-      "y": 288,
-      "zOrder": 130,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
       "persistentUuid": "45563cdf-6530-4b7b-84d6-81afe8a7c232",
       "width": 0,
       "x": 448,
@@ -4340,22 +4273,6 @@
       "x": 496,
       "y": 400,
       "zOrder": 145,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "f059269b-e3b2-4606-b983-8786fcc2426b",
-      "width": 0,
-      "x": 464,
-      "y": 368,
-      "zOrder": 146,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -5295,38 +5212,6 @@
       "keepRatio": true,
       "layer": "",
       "name": "WallMid",
-      "persistentUuid": "90d1206f-bdbc-483d-839d-2742dedc2553",
-      "width": 0,
-      "x": 608,
-      "y": 448,
-      "zOrder": 142,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "f54f1e8b-014d-42c3-9887-bfacd0e3fd13",
-      "width": 0,
-      "x": 608,
-      "y": 464,
-      "zOrder": 143,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
       "persistentUuid": "6a7e1214-bad2-46db-984f-f332ee5ccc33",
       "width": 0,
       "x": 624,
@@ -5364,22 +5249,6 @@
       "x": 592,
       "y": 432,
       "zOrder": 146,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "41e5e356-1296-4da5-ba30-fe9a3d39dbff",
-      "width": 0,
-      "x": 608,
-      "y": 432,
-      "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -5684,22 +5553,6 @@
       "x": 640,
       "y": 368,
       "zOrder": 148,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "DoorWithFrame",
-      "persistentUuid": "897f65e9-7451-473d-bb13-cc02e9a751fd",
-      "width": 0,
-      "x": 656,
-      "y": 365,
-      "zOrder": 149,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -6142,22 +5995,6 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "DoorWithFrame",
-      "persistentUuid": "e04ab6ab-ad78-40a8-9ef8-47533e021de6",
-      "width": 0,
-      "x": 832,
-      "y": 429,
-      "zOrder": 150,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
       "name": "WallMid",
       "persistentUuid": "10296aa1-ced0-42b3-887b-0c12d0802c04",
       "width": 0,
@@ -6382,60 +6219,12 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "72ecc526-5147-4482-a748-fa1f9b50ed8b",
-      "width": 0,
-      "x": 960,
-      "y": 448,
-      "zOrder": 142,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "da677490-d9ef-4be3-9a65-fd533045a47d",
-      "width": 0,
-      "x": 960,
-      "y": 464,
-      "zOrder": 143,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
       "name": "WallTopMid",
       "persistentUuid": "514dd8f7-c795-4a36-9f15-ca4d09fa4bbe",
       "width": 0,
       "x": 944,
       "y": 432,
       "zOrder": 146,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "5df2c357-d547-4e1c-83c5-47977e8a1f2b",
-      "width": 0,
-      "x": 960,
-      "y": 432,
-      "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -7023,43 +6812,11 @@
       "keepRatio": true,
       "layer": "",
       "name": "WallMid",
-      "persistentUuid": "e138f3aa-5a21-41b8-957d-bda3d8866219",
-      "width": 0,
-      "x": 912,
-      "y": 384,
-      "zOrder": 144,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
       "persistentUuid": "fe5bc090-5033-4c4e-94d2-d3524d2be4b4",
       "width": 0,
       "x": 912,
       "y": 400,
       "zOrder": 145,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "49de31a9-bc6a-4489-aed9-709e91915cca",
-      "width": 0,
-      "x": 912,
-      "y": 368,
-      "zOrder": 148,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -7319,6 +7076,3432 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameLeft",
+      "persistentUuid": "9a38d061-5c55-480c-ba26-962bdb4ecac4",
+      "width": 0,
+      "x": 112,
+      "y": 157,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameRight",
+      "persistentUuid": "f45e489f-d3ed-4481-a38b-76daab8d7a22",
+      "width": 0,
+      "x": 160,
+      "y": 157,
+      "zOrder": 153,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Door",
+      "persistentUuid": "cb52bae6-eb29-4143-84fc-fc03010b738c",
+      "width": 0,
+      "x": 128,
+      "y": 157,
+      "zOrder": 154,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "8ef49a3e-ad9a-4400-98f6-b9cc50bc444c",
+      "width": 0,
+      "x": 368,
+      "y": 176,
+      "zOrder": 122,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "71023266-4ff8-4279-8e23-91344c5addcf",
+      "width": 0,
+      "x": 368,
+      "y": 192,
+      "zOrder": 122,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "83e1aec1-7e53-486c-ad81-c4a11456583e",
+      "width": 0,
+      "x": 368,
+      "y": 208,
+      "zOrder": 122,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "5fceda03-e018-4052-b9cc-1d8548435bab",
+      "width": 0,
+      "x": 368,
+      "y": 224,
+      "zOrder": 122,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "d7b62dc8-fae7-4260-9c96-478818483a9d",
+      "width": 0,
+      "x": 368,
+      "y": 240,
+      "zOrder": 122,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Door",
+      "persistentUuid": "f934da89-a2da-4346-9551-cf0c253034c1",
+      "width": 0,
+      "x": 672,
+      "y": 365,
+      "zOrder": 155,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameRight",
+      "persistentUuid": "73300cf3-acc0-4300-bd51-ed8ee796b306",
+      "width": 0,
+      "x": 704,
+      "y": 365,
+      "zOrder": 156,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameLeft",
+      "persistentUuid": "c50d46a0-72d1-4add-8848-ebf379c7ec2b",
+      "width": 0,
+      "x": 656,
+      "y": 365,
+      "zOrder": 157,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Door",
+      "persistentUuid": "76ac805c-1113-40bd-8f04-4e8e32ece4a5",
+      "width": 0,
+      "x": 848,
+      "y": 429,
+      "zOrder": 158,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameRight",
+      "persistentUuid": "b342ac0f-574b-4ad8-8c0a-f70352020743",
+      "width": 0,
+      "x": 880,
+      "y": 429,
+      "zOrder": 159,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameLeft",
+      "persistentUuid": "4ab5ff9e-98ca-44df-8a51-5d42f4d6bc6f",
+      "width": 0,
+      "x": 832,
+      "y": 429,
+      "zOrder": 160,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "e25a7ec8-9608-41e6-b281-adac219adb8d",
+      "width": 0,
+      "x": 608,
+      "y": 512,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "fe389af6-fad7-45e4-9868-9a4d109d95b3",
+      "width": 0,
+      "x": 608,
+      "y": 528,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "a1c4e05d-ebf1-4933-aac3-e09d5d039cad",
+      "width": 0,
+      "x": 608,
+      "y": 464,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FullNorthwestCorner",
+      "persistentUuid": "008e9c5f-789d-4b50-8ed1-31e82a22b590",
+      "width": 0,
+      "x": 608,
+      "y": 432,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "4872667a-c5dd-4c1f-9b10-b18287c09b47",
+      "width": 0,
+      "x": 608,
+      "y": 496,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "cecf39ff-16eb-44c5-8fc7-3f34a6bd6635",
+      "width": 0,
+      "x": 608,
+      "y": 480,
+      "zOrder": 79,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "3c6b2309-97da-47bf-9e43-ba4e4587b315",
+      "width": 0,
+      "x": 608,
+      "y": 464,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FullNortheastCorner",
+      "persistentUuid": "ec694f39-8c52-4de0-acc1-9195388afec2",
+      "width": 0,
+      "x": 960,
+      "y": 432,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallRight",
+      "persistentUuid": "120556c6-47a3-4541-a711-a1d26b2e99b2",
+      "width": 0,
+      "x": 960,
+      "y": 464,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "f4ad4fc7-7cd1-4038-9871-26ba69b22080",
+      "width": 0,
+      "x": 960,
+      "y": 464,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "e33fc93f-81a6-4c39-9d1e-e4254c595503",
+      "width": 0,
+      "x": 960,
+      "y": 480,
+      "zOrder": 77,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "cd9f70f7-6b62-4224-abe4-250c0fb2942e",
+      "width": 0,
+      "x": 960,
+      "y": 496,
+      "zOrder": 58,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "5e084fd0-490a-41b4-bd14-d36485bd1346",
+      "width": 0,
+      "x": 960,
+      "y": 512,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "b11a5964-e470-4915-bb8d-09ed906b0537",
+      "width": 0,
+      "x": 960,
+      "y": 528,
+      "zOrder": 94,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "0b8a9524-f2c1-4d41-8d51-1094a95d93f6",
+      "width": 0,
+      "x": 960,
+      "y": 544,
+      "zOrder": 95,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "e4b6f319-f96b-4058-818e-d67658b79d63",
+      "width": 0,
+      "x": 960,
+      "y": 560,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FullSouthwestCorner",
+      "persistentUuid": "95d89f8b-155f-42b5-9fd8-51adcea4bd17",
+      "width": 0,
+      "x": 608,
+      "y": 624,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "8ec9f7ab-040c-46b1-88c3-c5c38e43d856",
+      "width": 0,
+      "x": 624,
+      "y": 640,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "ccee2d25-8035-4649-85b7-aab06d609c26",
+      "width": 0,
+      "x": 640,
+      "y": 640,
+      "zOrder": 46,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "27abac94-0234-4577-b323-dbe45ae3412f",
+      "width": 0,
+      "x": 640,
+      "y": 624,
+      "zOrder": 51,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "9a7f8b88-d4f2-4fef-949f-138f6ce34d87",
+      "width": 0,
+      "x": 624,
+      "y": 624,
+      "zOrder": 52,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "2d879514-ec33-425f-8403-8d65f8df9538",
+      "width": 0,
+      "x": 608,
+      "y": 624,
+      "zOrder": 68,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "1fcbec4a-8b22-4ebf-85f7-c08ceb954978",
+      "width": 0,
+      "x": 624,
+      "y": 656,
+      "zOrder": 84,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "5776d8f0-e844-4f52-892a-663b448f27bb",
+      "width": 0,
+      "x": 640,
+      "y": 656,
+      "zOrder": 85,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallLeft",
+      "persistentUuid": "c376deb9-3dab-4e5b-b899-60b393b1fb99",
+      "width": 0,
+      "x": 608,
+      "y": 656,
+      "zOrder": 91,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FullSoutheastCorner",
+      "persistentUuid": "e1b4d111-eac5-4462-a8ff-f9c3f9abd571",
+      "width": 0,
+      "x": 960,
+      "y": 624,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "2ae672f4-2f6d-46d2-ab6d-f9d14c92cc30",
+      "width": 0,
+      "x": 944,
+      "y": 640,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "7d8f8cd1-bb36-4bd1-b7b5-f8aa92b3a56c",
+      "width": 0,
+      "x": 944,
+      "y": 624,
+      "zOrder": 56,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "b4f1ec56-817e-4ed3-a4db-7697db6a36f1",
+      "width": 0,
+      "x": 960,
+      "y": 608,
+      "zOrder": 63,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "218eb9c6-db00-49a2-97f8-532ba23d7ca8",
+      "width": 0,
+      "x": 944,
+      "y": 656,
+      "zOrder": 89,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallRight",
+      "persistentUuid": "de9587da-a58c-44c1-b3fd-43fcad2c7acb",
+      "width": 0,
+      "x": 960,
+      "y": 656,
+      "zOrder": 90,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "990cd6b3-d430-49e2-b49e-6b8381dfecba",
+      "width": 0,
+      "x": 656,
+      "y": 640,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "dd2c3fd0-24dc-42cc-ad82-43e4e6e9f3e3",
+      "width": 0,
+      "x": 672,
+      "y": 640,
+      "zOrder": 46,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "a15a10f3-cfcc-42f7-8f6f-6b76ffc71949",
+      "width": 0,
+      "x": 688,
+      "y": 640,
+      "zOrder": 47,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "b3a46b74-52f6-452b-a27f-472af9809efa",
+      "width": 0,
+      "x": 704,
+      "y": 640,
+      "zOrder": 48,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "bcf7423a-f50f-4f3f-a683-7a4b8fad0b32",
+      "width": 0,
+      "x": 720,
+      "y": 640,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "c93d2f77-fda8-4734-b587-3b568e4a3bf9",
+      "width": 0,
+      "x": 736,
+      "y": 640,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "de96a7b5-1619-4492-9116-2db32d98b0eb",
+      "width": 0,
+      "x": 672,
+      "y": 624,
+      "zOrder": 51,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "ed658a49-4544-4d13-a2eb-da6862fdbb5b",
+      "width": 0,
+      "x": 656,
+      "y": 624,
+      "zOrder": 52,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "3f587a63-6e37-4d30-b369-682e5057a596",
+      "width": 0,
+      "x": 688,
+      "y": 624,
+      "zOrder": 53,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "971c04c2-c214-498b-8b20-e02cb2b58907",
+      "width": 0,
+      "x": 704,
+      "y": 624,
+      "zOrder": 54,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "9afb5b3a-d196-4947-80db-d297c0ef05a1",
+      "width": 0,
+      "x": 720,
+      "y": 624,
+      "zOrder": 55,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "cf534ce5-f69b-420b-b945-350cf19eead9",
+      "width": 0,
+      "x": 736,
+      "y": 624,
+      "zOrder": 56,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "6de766e1-5e23-4774-ac06-269687690c54",
+      "width": 0,
+      "x": 656,
+      "y": 656,
+      "zOrder": 84,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "1ca6149d-cb96-44f8-967d-a1c86b389253",
+      "width": 0,
+      "x": 672,
+      "y": 656,
+      "zOrder": 85,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "f31360d1-03d9-44e0-a4c9-4c06d10b5a4c",
+      "width": 0,
+      "x": 688,
+      "y": 656,
+      "zOrder": 86,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "92483e16-cc1e-4fe8-858e-975016621902",
+      "width": 0,
+      "x": 704,
+      "y": 656,
+      "zOrder": 87,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "950a3b9d-9886-4e2b-b76c-b167bd9e398f",
+      "width": 0,
+      "x": 720,
+      "y": 656,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "1191311d-effd-4cc0-86f4-07a2bd4481e0",
+      "width": 0,
+      "x": 736,
+      "y": 656,
+      "zOrder": 89,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "dbdd8340-1931-4995-ad39-78e785f12909",
+      "width": 0,
+      "x": 752,
+      "y": 640,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "89e2567b-967e-4677-a8e9-511ae85f3f7c",
+      "width": 0,
+      "x": 768,
+      "y": 640,
+      "zOrder": 46,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "38dc8411-79c9-4cdd-a32c-e915d5f85398",
+      "width": 0,
+      "x": 784,
+      "y": 640,
+      "zOrder": 47,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "6bbd17c3-acf0-48f9-a654-1f2202a7b930",
+      "width": 0,
+      "x": 800,
+      "y": 640,
+      "zOrder": 48,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "4bf7b03b-733e-441d-8826-6d0ba334f914",
+      "width": 0,
+      "x": 816,
+      "y": 640,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "8a224d5b-a406-41c7-ab1b-0ff17c72fa7e",
+      "width": 0,
+      "x": 832,
+      "y": 640,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "1b11152d-6f1d-4ddd-93e7-fb944461bc3f",
+      "width": 0,
+      "x": 768,
+      "y": 624,
+      "zOrder": 51,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "6504db36-af6d-4cb8-b4a6-8c82b1d4fe6d",
+      "width": 0,
+      "x": 752,
+      "y": 624,
+      "zOrder": 52,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "5a22bac9-c74c-49c8-be30-349f24b4d05e",
+      "width": 0,
+      "x": 784,
+      "y": 624,
+      "zOrder": 53,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "81011596-d3a3-41d5-9fc9-354950e54a30",
+      "width": 0,
+      "x": 800,
+      "y": 624,
+      "zOrder": 54,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "44d1e6e4-6137-453a-82f8-6a9475479d65",
+      "width": 0,
+      "x": 816,
+      "y": 624,
+      "zOrder": 55,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "17b35aa6-3e1b-4465-98dc-b819f8985cc6",
+      "width": 0,
+      "x": 832,
+      "y": 624,
+      "zOrder": 56,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "028375f4-1f08-41bb-b79f-96a1d35a5169",
+      "width": 0,
+      "x": 752,
+      "y": 656,
+      "zOrder": 84,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "cc0de687-b4ab-4a16-a4d3-55331d003ed9",
+      "width": 0,
+      "x": 768,
+      "y": 656,
+      "zOrder": 85,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "0a82a5ce-61b3-4cb2-a46e-51ba85fec97c",
+      "width": 0,
+      "x": 784,
+      "y": 656,
+      "zOrder": 86,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "e1961238-3843-4872-98ce-bcd179d3aee2",
+      "width": 0,
+      "x": 800,
+      "y": 656,
+      "zOrder": 87,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "8cae9f7a-2707-4b65-b416-e4ee5233ba5e",
+      "width": 0,
+      "x": 816,
+      "y": 656,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "a93e00ae-01ed-47a2-b106-bc2d99fc1901",
+      "width": 0,
+      "x": 832,
+      "y": 656,
+      "zOrder": 89,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "86fc8860-b814-4bf5-a024-e1d19af904de",
+      "width": 0,
+      "x": 848,
+      "y": 640,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "df3edc09-4416-45dd-b0aa-c02fc05af6e9",
+      "width": 0,
+      "x": 864,
+      "y": 640,
+      "zOrder": 46,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "31af24b8-0d3b-45fc-b816-436e4766a3ec",
+      "width": 0,
+      "x": 880,
+      "y": 640,
+      "zOrder": 47,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "0f5a0817-4100-4e06-a8b4-a5574f20af94",
+      "width": 0,
+      "x": 896,
+      "y": 640,
+      "zOrder": 48,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "90dae8e0-3eed-4001-b21b-182d02f99056",
+      "width": 0,
+      "x": 912,
+      "y": 640,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "459bb195-75f2-4066-9013-4d79913013ae",
+      "width": 0,
+      "x": 928,
+      "y": 640,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "08d19b8f-0d58-4324-b05c-9082168ee927",
+      "width": 0,
+      "x": 864,
+      "y": 624,
+      "zOrder": 51,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "31d7300b-11bb-4f41-86b0-c818518eaca9",
+      "width": 0,
+      "x": 848,
+      "y": 624,
+      "zOrder": 52,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "5148d937-4226-4cf3-b2b2-57c64d46f6de",
+      "width": 0,
+      "x": 880,
+      "y": 624,
+      "zOrder": 53,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "6ff180ca-f7c5-4118-b89c-c80a311ff460",
+      "width": 0,
+      "x": 896,
+      "y": 624,
+      "zOrder": 54,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "67d9a946-a21f-4b76-8994-01db34439451",
+      "width": 0,
+      "x": 912,
+      "y": 624,
+      "zOrder": 55,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "9c424188-eb5e-4357-a115-5b8115b3c81f",
+      "width": 0,
+      "x": 928,
+      "y": 624,
+      "zOrder": 56,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "1ac3fec2-5048-4a3e-af2c-fb42c071cc17",
+      "width": 0,
+      "x": 848,
+      "y": 656,
+      "zOrder": 84,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "0147d1ac-9a5f-41f3-a487-fda8ad855fbd",
+      "width": 0,
+      "x": 864,
+      "y": 656,
+      "zOrder": 85,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "ef664dba-84eb-4aac-b494-20667f863a41",
+      "width": 0,
+      "x": 880,
+      "y": 656,
+      "zOrder": 86,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "d5a865e9-88d6-4206-b785-ca2a4a1df510",
+      "width": 0,
+      "x": 896,
+      "y": 656,
+      "zOrder": 87,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "bdd0c4b2-d5ed-4ec1-8a69-74777d36de9c",
+      "width": 0,
+      "x": 912,
+      "y": 656,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "b161bd9b-1d04-4907-8a3b-60337b6f8417",
+      "width": 0,
+      "x": 928,
+      "y": 656,
+      "zOrder": 89,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "655b2e34-0941-4e03-b04b-e140fb7f949e",
+      "width": 0,
+      "x": 608,
+      "y": 560,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "7ea0d3d0-e42d-4a39-b788-d88b7d0cf19b",
+      "width": 0,
+      "x": 608,
+      "y": 576,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "6bb206eb-66c7-4534-b249-8e11f01a70a8",
+      "width": 0,
+      "x": 608,
+      "y": 544,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "d45bb04d-1b14-4ab6-b959-2a7fa3e32978",
+      "width": 0,
+      "x": 608,
+      "y": 592,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "09ae5ae4-391a-4741-9acb-3fa87beeb234",
+      "width": 0,
+      "x": 608,
+      "y": 608,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "b8771d59-111c-4cd9-b7cb-cc758871fc00",
+      "width": 0,
+      "x": 960,
+      "y": 576,
+      "zOrder": 95,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "fbd7e000-73f2-40d3-9603-776c21b147b4",
+      "width": 0,
+      "x": 960,
+      "y": 592,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 192,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Floor_1",
+      "persistentUuid": "4fd06167-b011-4f32-804b-dec2c3395ca1",
+      "width": 368,
+      "x": 608,
+      "y": 480,
+      "zOrder": -15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "7937a44f-6474-4e2f-94db-690d244fe5a0",
+      "width": 0,
+      "x": 464,
+      "y": 272,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FullNorthwestCorner",
+      "persistentUuid": "3ee59706-03fc-428a-9e4c-12b8bf317dec",
+      "width": 0,
+      "x": 464,
+      "y": 240,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "5fa7a805-cd6a-4179-a286-14502f9a2544",
+      "width": 0,
+      "x": 464,
+      "y": 272,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "dd2e96c6-09b7-46cc-8209-d05b75375717",
+      "width": 0,
+      "x": 448,
+      "y": 288,
+      "zOrder": 127,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "3b7e890c-647e-446e-ac4d-c936f2e2f237",
+      "width": 0,
+      "x": 480,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "6576bd6e-6a1b-4065-b673-de10bf3a14f7",
+      "width": 0,
+      "x": 480,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "22fcb812-18e9-491c-af12-09fea6894046",
+      "width": 0,
+      "x": 480,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "80ab51af-94f0-4cf3-9873-ab3f1e93dce9",
+      "width": 0,
+      "x": 496,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "16400d0c-162f-44b8-b300-62818098ea83",
+      "width": 0,
+      "x": 496,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "9f5f5595-5498-4f1e-ab91-b9a4cea8e910",
+      "width": 0,
+      "x": 496,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "b0c0b041-5bd2-46c0-8e28-386606a93d62",
+      "width": 0,
+      "x": 512,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "c1c8dd05-b5d6-455d-827c-01783a4bd9e4",
+      "width": 0,
+      "x": 512,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "467ca9b2-b764-459b-9c4d-0f26b8ef1fd0",
+      "width": 0,
+      "x": 512,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "e3e5ba2e-bdb6-4ae2-8f37-236e0f43f78c",
+      "width": 0,
+      "x": 528,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "7f9dbcd1-e686-4f9f-913d-2a088b4e2d13",
+      "width": 0,
+      "x": 528,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "af581c28-9877-4475-add0-96fb3198e0ae",
+      "width": 0,
+      "x": 528,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "2708eaee-0e3a-400e-952c-f98fcc3272f6",
+      "width": 0,
+      "x": 544,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "35051870-6990-42fd-bdac-18e6dc7e6f18",
+      "width": 0,
+      "x": 544,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "4dfd1445-ac78-4778-9571-b94e3f2d7428",
+      "width": 0,
+      "x": 544,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "5d9c5a7e-5390-4a2a-add3-6aa759104b19",
+      "width": 0,
+      "x": 560,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "5b111920-fc13-4cfc-afe4-dc77a3f6a6f5",
+      "width": 0,
+      "x": 560,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "46b6fdf7-9207-4500-86af-67f02228fc52",
+      "width": 0,
+      "x": 560,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "dabf928a-1688-49d5-a85b-09edff193d65",
+      "width": 0,
+      "x": 576,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "f3babdab-f3da-4ce2-bb53-e09abbb1f595",
+      "width": 0,
+      "x": 576,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "40f8dbce-0951-4c71-9a85-267cad44321b",
+      "width": 0,
+      "x": 576,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "ae8c93e1-d7ef-4112-9f06-90754105064e",
+      "width": 0,
+      "x": 592,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "b474f75d-270c-4dd8-ba04-fc3ec8932785",
+      "width": 0,
+      "x": 592,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "d25bf20e-c3bc-4a98-b6b9-7d29de3bc462",
+      "width": 0,
+      "x": 592,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "ea06f3ff-fda8-4f81-9124-433c4245b25a",
+      "width": 0,
+      "x": 608,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "256f5768-61cf-453a-9721-4337448670fb",
+      "width": 0,
+      "x": 608,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "d8a958d2-30ed-493c-b99f-570bc5b87e34",
+      "width": 0,
+      "x": 608,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "e112b27a-482e-4db0-b91e-38f4e1430457",
+      "width": 0,
+      "x": 624,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "dfa98326-b245-4837-9fad-18f1230a08d8",
+      "width": 0,
+      "x": 624,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "90c907d9-6964-454d-a4f1-1b1256d285ca",
+      "width": 0,
+      "x": 624,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "8f5f90a8-cc3e-4360-b10c-1f9002a0f291",
+      "width": 0,
+      "x": 640,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "382338aa-f170-48da-9159-734277ddf451",
+      "width": 0,
+      "x": 640,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "b6e86f15-165e-4684-bd08-10146e8b3478",
+      "width": 0,
+      "x": 640,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "7baa0e2a-5a2d-4d9d-9129-52faf5b686d1",
+      "width": 0,
+      "x": 656,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "3904b520-b06b-4aad-929a-2d558cca81f4",
+      "width": 0,
+      "x": 656,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "1adbe4e2-5346-4127-a9c7-303ad46150f6",
+      "width": 0,
+      "x": 656,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "8ed5765e-fc15-49c1-92d8-b164e2f9eb4d",
+      "width": 0,
+      "x": 672,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "cb5bfa51-d1bd-486d-af35-40e53330440d",
+      "width": 0,
+      "x": 672,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "098d83ca-3577-4740-aa15-203ac48d9f23",
+      "width": 0,
+      "x": 672,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "2fa0d9b8-ab84-46ee-bf9a-5e11d5e0bf24",
+      "width": 0,
+      "x": 688,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "e2bfb9b1-d448-408a-adfc-e1533399dfb9",
+      "width": 0,
+      "x": 688,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "2d662bc5-f103-474e-97fb-53f14cd6ca67",
+      "width": 0,
+      "x": 688,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "f0c9baea-8c8e-4933-b429-9a472a82b54d",
+      "width": 0,
+      "x": 704,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "54a9ed0b-fa52-4b37-a964-9edf3d374a40",
+      "width": 0,
+      "x": 704,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "8b326d52-4630-456f-afd1-a2d3e8c1d29d",
+      "width": 0,
+      "x": 704,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "577d1e81-0089-4005-9feb-3e9bb77a268e",
+      "width": 0,
+      "x": 720,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "50674e18-9543-405b-81f1-741c0ead5c23",
+      "width": 0,
+      "x": 720,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "5b86b0bf-c864-40ca-8cc7-23c03259ac42",
+      "width": 0,
+      "x": 720,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "2b48e704-805c-4da3-83b7-c5b422ed5365",
+      "width": 0,
+      "x": 736,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "39941269-4c24-4259-a98b-05da2e3ae05f",
+      "width": 0,
+      "x": 736,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "25a9359a-147a-442f-947f-56f2a60ad1c9",
+      "width": 0,
+      "x": 736,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "4b52032c-d090-438c-8c8a-2eb8c107346d",
+      "width": 0,
+      "x": 752,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "8da8290b-9feb-49e4-85b1-5f53831f1dff",
+      "width": 0,
+      "x": 752,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "d5ea71bd-cb24-455c-b0c2-b3a7d9ca199e",
+      "width": 0,
+      "x": 752,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "881f14a1-1134-4a50-95e5-0d34dddf9ad5",
+      "width": 0,
+      "x": 768,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "ec0eaf00-9d00-4a1f-a558-6afc2130acb4",
+      "width": 0,
+      "x": 768,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "bfaa3331-e674-4e8e-9fb3-4c14794b5b17",
+      "width": 0,
+      "x": 768,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "f4987918-5992-4716-bfc1-73e641808bd5",
+      "width": 0,
+      "x": 784,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "46bac99f-6dac-4da7-879f-0d5084e19ea6",
+      "width": 0,
+      "x": 784,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "9b743bab-c0fd-43c3-a093-be4644f6babd",
+      "width": 0,
+      "x": 784,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "003fb959-3578-4675-82c0-87ebd116e0f9",
+      "width": 0,
+      "x": 800,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "e90ff73b-d5a3-4ebb-a40f-09520847abb0",
+      "width": 0,
+      "x": 800,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "0ea7434c-aaa4-41a7-a7de-d45690c0565b",
+      "width": 0,
+      "x": 800,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "e8a77480-bbf4-4521-adb8-8a97edbc9d73",
+      "width": 0,
+      "x": 816,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "6a1edbef-6cd3-4f80-82ad-b043eada5bd0",
+      "width": 0,
+      "x": 816,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "d6ee91b7-bfd7-462e-9264-fdb830c766bf",
+      "width": 0,
+      "x": 816,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "86be3a94-4709-439f-b52d-1cd81887d015",
+      "width": 0,
+      "x": 832,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "53386b3c-7fff-4ba9-bcd8-587f97f5daea",
+      "width": 0,
+      "x": 832,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "089e69ac-750e-4a70-abd0-f9087d0d131b",
+      "width": 0,
+      "x": 832,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "69867326-40c0-4133-9b02-4b8fe6ba7232",
+      "width": 0,
+      "x": 848,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "39d2b609-dbc6-40f3-81bf-a8052f9890df",
+      "width": 0,
+      "x": 848,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "d9ce89ba-57ef-4468-a084-02bb6f75c47a",
+      "width": 0,
+      "x": 848,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "d8a45660-8862-4399-b359-c1a3e8abc660",
+      "width": 0,
+      "x": 848,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "10392365-4924-42c7-ba3d-2f0dc03d11bb",
+      "width": 0,
+      "x": 848,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "af97b7ef-bbd2-4eb0-90ad-9f5e25e31441",
+      "width": 0,
+      "x": 848,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "abcee723-42e2-4238-b8c8-30b0fd2ae13d",
+      "width": 0,
+      "x": 864,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "29c7b624-f580-4151-ae52-4eb3791bb35f",
+      "width": 0,
+      "x": 864,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "8d7672b9-fc7c-41ab-8c29-82a1b4af8820",
+      "width": 0,
+      "x": 864,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "45de5550-c7ec-4c85-bf39-d3aa76c79407",
+      "width": 0,
+      "x": 880,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "bb158eaf-ce07-4984-967a-35c6cfdacf63",
+      "width": 0,
+      "x": 880,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "cecfe14e-5ff9-48fb-9d66-c5c75ea97025",
+      "width": 0,
+      "x": 880,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "ef129d15-0c03-4e4c-a52e-8d2e6977d10b",
+      "width": 0,
+      "x": 896,
+      "y": 256,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallMid",
+      "persistentUuid": "bfa33b38-a036-4087-8108-202b1645159a",
+      "width": 0,
+      "x": 896,
+      "y": 272,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallTopMid",
+      "persistentUuid": "b3c85fc9-65c9-44a8-80df-63dc64443125",
+      "width": 0,
+      "x": 896,
+      "y": 240,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "3adc3f0b-4f97-405d-adce-55c0e01b77d5",
+      "width": 0,
+      "x": 912,
+      "y": 288,
+      "zOrder": 94,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "2bff2bcf-4e8b-4800-a2df-f9edd8058f1f",
+      "width": 0,
+      "x": 912,
+      "y": 304,
+      "zOrder": 95,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "3d7eca17-839e-4777-8646-d435ea7b65d0",
+      "width": 0,
+      "x": 912,
+      "y": 320,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "d42b2b3d-d8b3-4365-81b6-c1c418a878ae",
+      "width": 0,
+      "x": 912,
+      "y": 336,
+      "zOrder": 95,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "7530a48b-d025-41f4-874f-7928e1a43c97",
+      "width": 0,
+      "x": 912,
+      "y": 352,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FullSoutheastCorner",
+      "persistentUuid": "02e99a40-72ec-4eac-aa36-79f5a74c3839",
+      "width": 0,
+      "x": 912,
+      "y": 368,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FullNortheastCorner",
+      "persistentUuid": "150d50e4-9d7c-4a7b-a56f-8d9bfd4ed1cf",
+      "width": 0,
+      "x": 912,
+      "y": 240,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallRight",
+      "persistentUuid": "00580885-8763-4c58-85a0-e3cfb23506fc",
+      "width": 0,
+      "x": 912,
+      "y": 272,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidLeft",
+      "persistentUuid": "1591199c-c1ac-4b6d-bd5d-2b5c0542c8d3",
+      "width": 0,
+      "x": 912,
+      "y": 272,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 128,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Floor_1",
+      "persistentUuid": "4068c858-e2a2-4a2e-b239-a19119365ac7",
+      "width": 464,
+      "x": 464,
+      "y": 288,
+      "zOrder": -16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "dabd4c8f-0833-489a-80d9-ca1dba82ced7",
+      "width": 0,
+      "x": 464,
+      "y": 288,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "749a3484-9076-407b-86d1-10b6456de89b",
+      "width": 0,
+      "x": 464,
+      "y": 304,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "42af2fc2-66cd-4fad-9cec-35841e18d9ec",
+      "width": 0,
+      "x": 464,
+      "y": 320,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "c0519e02-1ba1-4e83-b5f4-0750329fc3f4",
+      "width": 0,
+      "x": 464,
+      "y": 336,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "ba8aa766-55ab-4cc6-aed4-cfeef08c3dc9",
+      "width": 0,
+      "x": 464,
+      "y": 352,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "573638e2-9eb8-4971-a834-408b67e94969",
+      "width": 0,
+      "x": 464,
+      "y": 368,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "262e9e6f-879e-4a3f-be6e-9a4107c75378",
+      "width": 0,
+      "x": 448,
+      "y": 256,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSideMidRight",
+      "persistentUuid": "577ed712-b279-460d-bc84-0c841d9ea520",
+      "width": 0,
+      "x": 448,
+      "y": 272,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FullSouthwestCorner",
+      "persistentUuid": "21463c0f-2637-48e3-a087-749a9dd009aa",
+      "width": 0,
+      "x": 464,
+      "y": 368,
+      "zOrder": 134,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -7342,7 +10525,15 @@
       "width": 32,
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -7734,332 +10925,6 @@
                       {
                         "x": 0,
                         "y": 32
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "4d2c261fdc9e44ce2d9e98e23ce9b596ad9507614b3d88ce341750a12dd1e517",
-      "name": "DoorFrameLeft",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Door Frame Left.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 3
-                      },
-                      {
-                        "x": 16,
-                        "y": 3
-                      },
-                      {
-                        "x": 16,
-                        "y": 32
-                      },
-                      {
-                        "x": 0,
-                        "y": 32
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "d9c52879a512974fe05f489ea99ca67d2f4d54996ff3a12064f2804890f401a8",
-      "name": "DoorFrameRight",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Door Frame Right.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 2
-                      },
-                      {
-                        "x": 16,
-                        "y": 2
-                      },
-                      {
-                        "x": 16,
-                        "y": 32
-                      },
-                      {
-                        "x": 0,
-                        "y": 32
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "5fb3b1a59b0d119ad03c7e7aec31e3c7520c75a716ea82e2056b58e4c5d39f00",
-      "name": "DoorFrameTop",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Door Frame Top.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 3,
-                        "y": 0
-                      },
-                      {
-                        "x": 29,
-                        "y": 0
-                      },
-                      {
-                        "x": 29,
-                        "y": 3
-                      },
-                      {
-                        "x": 3,
-                        "y": 3
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "f5d2a6084c166a22d13f65247960c6e47abefb7763dde510984e947e2dfd57c2",
-      "name": "DoorWithFrame",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "Door With Frame",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Door With Frame2",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 51
-                      },
-                      {
-                        "x": 0,
-                        "y": 51
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Open",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Open3",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 51
-                      },
-                      {
-                        "x": 0,
-                        "y": 51
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Open4",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 51
-                      },
-                      {
-                        "x": 0,
-                        "y": 51
                       }
                     ]
                   ]
@@ -8944,6 +11809,314 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "4d2c261fdc9e44ce2d9e98e23ce9b596ad9507614b3d88ce341750a12dd1e517",
+      "name": "DoorFrameLeft",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Door Frame Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Frame Left",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 6
+                      },
+                      {
+                        "x": 16,
+                        "y": 6
+                      },
+                      {
+                        "x": 16,
+                        "y": 51
+                      },
+                      {
+                        "x": 0,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "3e629abc8f260fb286a0ba8211d6b67d4e8c446ccd6bf1ac044b622b2757022b",
+      "name": "Door",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Closed",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Closed",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 51
+                      },
+                      {
+                        "x": 0,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Open",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Open5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 51
+                      },
+                      {
+                        "x": 0,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "d9c52879a512974fe05f489ea99ca67d2f4d54996ff3a12064f2804890f401a8",
+      "name": "DoorFrameRight",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Door Frame Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Frame Right5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 6
+                      },
+                      {
+                        "x": 16,
+                        "y": 6
+                      },
+                      {
+                        "x": 16,
+                        "y": 51
+                      },
+                      {
+                        "x": 0,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "95353beba2ced3bd23bd89c6c6a2de6ab05972ae016d263aa665df96f0bf699c",
+      "name": "Stairs",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Stairs.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -8959,55 +12132,65 @@
         "objectName": "FloorStairs"
       },
       {
-        "objectName": "FullNortheastCorner"
+        "folderName": "wall",
+        "children": [
+          {
+            "objectName": "WallMid"
+          },
+          {
+            "objectName": "WallRight"
+          },
+          {
+            "objectName": "WallLeft"
+          },
+          {
+            "objectName": "WallTopMid"
+          },
+          {
+            "objectName": "WallSideMidLeft"
+          },
+          {
+            "objectName": "WallSideMidRight"
+          },
+          {
+            "objectName": "WallSideFrontLeft"
+          },
+          {
+            "objectName": "WallSideFrontRight"
+          },
+          {
+            "objectName": "FullNortheastCorner"
+          },
+          {
+            "objectName": "FullNorthwestCorner"
+          },
+          {
+            "objectName": "FullSoutheastCorner"
+          },
+          {
+            "objectName": "FullSouthwestCorner"
+          }
+        ]
       },
       {
-        "objectName": "FullNorthwestCorner"
-      },
-      {
-        "objectName": "FullSoutheastCorner"
-      },
-      {
-        "objectName": "FullSouthwestCorner"
-      },
-      {
-        "objectName": "WallMid"
-      },
-      {
-        "objectName": "WallRight"
-      },
-      {
-        "objectName": "WallLeft"
-      },
-      {
-        "objectName": "WallSideMidLeft"
-      },
-      {
-        "objectName": "WallTopMid"
-      },
-      {
-        "objectName": "WallSideMidRight"
-      },
-      {
-        "objectName": "WallSideFrontRight"
-      },
-      {
-        "objectName": "WallSideFrontLeft"
-      },
-      {
-        "objectName": "DoorFrameLeft"
-      },
-      {
-        "objectName": "DoorFrameRight"
-      },
-      {
-        "objectName": "DoorFrameTop"
-      },
-      {
-        "objectName": "DoorWithFrame"
+        "folderName": "door",
+        "children": [
+          {
+            "objectName": "Door"
+          },
+          {
+            "objectName": "DoorFrameRight"
+          },
+          {
+            "objectName": "DoorFrameLeft"
+          }
+        ]
       },
       {
         "objectName": "Knight_Player"
+      },
+      {
+        "objectName": "Stairs"
       }
     ]
   },
@@ -9063,7 +12246,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Player Direction:",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -9230,7 +12412,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Collision",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -9266,6 +12447,36 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Knight_Player",
+            "Door",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "Door",
+            "Animation",
+            "=",
+            "\"Open\""
+          ]
+        }
+      ]
     }
   ],
   "layers": [

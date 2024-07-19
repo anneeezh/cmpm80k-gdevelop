@@ -497,7 +497,7 @@
         "alwaysLoaded": false,
         "file": "assets/Door With Frame3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Door With Frame3.png\"}",
         "name": "Door With Frame2",
         "smoothed": false,
         "userAdded": false
@@ -617,6 +617,117 @@
         "name": "assets\\frames\\knight_f_run_anim_f3.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/969a8bbc5ec12ee51b641e4a7ac318f0312abf39ef72121da06507cc17e3f5bc_Door_Closed.png",
+          "name": "Door_Closed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Open.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Open.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/133dcc03f2e4b0ed976c8d7263fc8750e64727003c09878a546d937252a2ac95_Door_Open.png",
+          "name": "Door_Open.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Left2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Frame Left",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Right2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Frame Right",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Right2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Frame Right2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Right3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Door Frame Right3.png\"}",
+        "name": "Door Frame Right3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Right4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Door Frame Right4.png\"}",
+        "name": "Door Frame Right4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door Frame Right5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Frame Right5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Closed.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Closed",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Open5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Open5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Stairs.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stairs.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Objects/f5dc742c2f73291cb5a0232b7f4795155b09d3a9adf224ae51c11ce3b48f348e_Stairs.png",
+          "name": "Stairs.png"
+        }
       }
     ],
     "resourceFolders": []
