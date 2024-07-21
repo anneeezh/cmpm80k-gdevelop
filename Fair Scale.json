@@ -800,6 +800,442 @@
         "name": "NewTiledSprite5",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "candleA_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "candleA_03.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "decorative.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "decorative.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/decorative.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "decorative.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Hole 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Hole 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/24a1fe487d0ce3c80477ce646efd47c9d52ca9e7cf634f605ab567185b4fe1f2_Wall Hole 1.png",
+          "name": "Wall Hole 1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Clean.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Clean.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/fdbaad501362790bd57187ff43d62c521f0a58b98697dcb2d058ed359b1dffa8_Floor_Clean.png",
+          "name": "Floor_Clean.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/91efa9c4a84b00d0abdd615a0b632afaab3a0ad8749b9c73b767e1d6b68a7124_Floor_Cracks1.png",
+          "name": "Floor_Cracks1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/e3aa42d4d3c1c3beb07bef71bab4cadcb145988d872d67e477209b5494ac30a0_Floor_Cracks2.png",
+          "name": "Floor_Cracks2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/ca5a5046a9fa10350405d669e9e38d7ea3b9586ce33e9d679de70b728a5bd30c_Floor_Cracks3.png",
+          "name": "Floor_Cracks3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/62480013f81b59b6bba79ac24881e2677898b2cffbda31def8b48d40d0d6c9a2_Floor_Cracks4.png",
+          "name": "Floor_Cracks4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/40f82a9aaec9518c10c9770ac49d9551e17ebfa56b718a35a0206754dc7909e6_Floor_Cracks5.png",
+          "name": "Floor_Cracks5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/42d983f03fb6693916b23ece84d0eb407956272162966d70a64fc65815894992_Floor_Cracks6.png",
+          "name": "Floor_Cracks6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/073afbf6198c37674a3c241afb8823283760582a1649388db715403874f4df15_Floor_Cracks7.png",
+          "name": "Floor_Cracks7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Ladder.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Ladder.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/5adc23ade4d6419446a8defacfe6f2977841787593af5886ffd060f576ef21ec_Floor_Ladder.png",
+          "name": "Floor_Ladder.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pixil-frame-0.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "pixil-frame-0.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-0 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0 (1).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "decorative2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "decorative2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/decorative2.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "decorative2.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "decorative3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "decorative3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mainlevbuild.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mainlevbuild.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mainlevbuild.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../RF_Catacombs_v1.0/decorative.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\RF_Catacombs_v1.0\\decorative.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mainlevbuild2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mainlevbuild2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild2.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mainlevbuild2.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mainlevbuild3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mainlevbuild3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild3.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/mainlevbuild3.png2.png\"}",
+        "name": "mainlevbuild3.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild3.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/mainlevbuild3.png3.png\"}",
+        "name": "mainlevbuild3.png3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild3.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mainlevbuild3.png4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mainlevbuild4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mainlevbuild4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild4.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mainlevbuild4.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mainlevbuild5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mainlevbuild5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild5.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mainlevbuild5.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild5.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mainlevbuild5.png3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_frames_floor_1.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\frames\\floor_1.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "decorative4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "decorative4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/decorative4.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "decorative4.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "decorative5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "decorative5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/decorative5.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "decorative5.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "decorative6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "decorative6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/decorative6.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "decorative6.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mainlevbuild6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mainlevbuild6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild6.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mainlevbuild6.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mainlevbuild7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mainlevbuild7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild7.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mainlevbuild7.png2",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
