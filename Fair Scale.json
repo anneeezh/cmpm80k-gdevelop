@@ -1637,6 +1637,51 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/8921367f00ac169c0565935cbcaed36d5f383f7d3c4e819fbd7384a89dae1d43_Green Button With Stone Frame_Pressed.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "dungeon_sprite_sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dungeon_sprite_sheet.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "dungeon_sprite_sheet (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dungeon_sprite_sheet (1).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "dungeon_sprite_sheet (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dungeon_sprite_sheet (2).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/dungeon_sprite_sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\dungeon_sprite_sheet.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "cobblestone floor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cobblestone floor.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
