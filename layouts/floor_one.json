@@ -9,7 +9,7 @@
   "title": "",
   "v": 209,
   "uiSettings": {
-    "grid": true,
+    "grid": false,
     "gridType": "rectangular",
     "gridWidth": 16,
     "gridHeight": 16,
@@ -17,8 +17,8 @@
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
-    "snap": true,
-    "zoomFactor": 1.8710224605218324,
+    "snap": false,
+    "zoomFactor": 2.1364426110439876,
     "windowMask": false
   },
   "objectsGroups": [
@@ -3826,7 +3826,7 @@
       "width": 64,
       "x": 384,
       "y": 112,
-      "zOrder": 132,
+      "zOrder": -8,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -6962,7 +6962,7 @@
       "persistentUuid": "6441bc76-2d9a-4e75-8c61-05d4af433717",
       "width": 0,
       "x": 145,
-      "y": 333,
+      "y": 332,
       "zOrder": 150,
       "numberProperties": [],
       "stringProperties": [],
@@ -10418,27 +10418,11 @@
       "keepRatio": true,
       "layer": "",
       "name": "DoorFrameTop",
-      "persistentUuid": "00858130-3c21-4986-a043-2282c0d9ac01",
-      "width": 0,
-      "x": 672,
-      "y": 340,
-      "zOrder": 151,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "DoorFrameTop",
       "persistentUuid": "cb5c169b-482e-4a55-bef8-8ca24caa9911",
       "width": 0,
       "x": 848,
       "y": 405,
-      "zOrder": 151,
+      "zOrder": 2000,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -11953,14 +11937,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 66,
+      "height": 36,
       "keepRatio": true,
       "layer": "",
       "name": "NewTiledSprite11",
       "persistentUuid": "5175fa06-e79a-4b0e-9e7b-87f4c04b4cf0",
       "width": 368,
-      "x": 608,
-      "y": 634,
+      "x": 609,
+      "y": 635,
       "zOrder": 199,
       "numberProperties": [],
       "stringProperties": [],
@@ -11970,13 +11954,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 66,
+      "height": 36,
       "layer": "",
       "name": "NewTiledSprite11",
       "persistentUuid": "684153aa-30b1-4ed3-a988-1672245a4241",
       "width": 229,
-      "x": 379,
-      "y": 443,
+      "x": 378,
+      "y": 444,
       "zOrder": 199,
       "numberProperties": [],
       "stringProperties": [],
@@ -11986,12 +11970,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 66,
+      "height": 38,
       "layer": "",
       "name": "NewTiledSprite11",
       "persistentUuid": "71fb7bf5-c56f-4ba8-b43b-ab5e523f2702",
-      "width": 197.7,
-      "x": 181.3,
+      "width": 198,
+      "x": 181,
       "y": 75,
       "zOrder": 199,
       "numberProperties": [],
@@ -12154,7 +12138,7 @@
       "width": 144,
       "x": 80,
       "y": 224,
-      "zOrder": 207,
+      "zOrder": 300,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -12204,6 +12188,22 @@
           "value": 2
         }
       ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorFrameTop",
+      "persistentUuid": "4275f78d-142d-499d-99a0-5dd84eb56f2f",
+      "width": 0,
+      "x": 672,
+      "y": 341,
+      "zOrder": 2000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -14502,7 +14502,7 @@
       "assetStoreId": "",
       "height": 66,
       "name": "NewTiledSprite11",
-      "texture": "mainlevbuild6.png2",
+      "texture": "mainlevbuild6.png3",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 52,
       "variables": [],
@@ -15336,6 +15336,15 @@
         "folderName": "wall",
         "children": [
           {
+            "objectName": "NewTiledSprite4"
+          },
+          {
+            "objectName": "NewTiledSprite11"
+          },
+          {
+            "objectName": "NewTiledSprite6"
+          },
+          {
             "objectName": "WallMid"
           },
           {
@@ -15403,16 +15412,21 @@
         "objectName": "Floor"
       },
       {
-        "objectName": "NewTiledSprite2"
+        "folderName": "chests_in _rooms",
+        "children": [
+          {
+            "objectName": "NewTiledSprite8"
+          },
+          {
+            "objectName": "NewTiledSprite2"
+          },
+          {
+            "objectName": "NewTiledSprite10"
+          }
+        ]
       },
       {
         "objectName": "NewTiledSprite3"
-      },
-      {
-        "objectName": "NewTiledSprite4"
-      },
-      {
-        "objectName": "NewTiledSprite10"
       },
       {
         "objectName": "NewTiledSprite5"
@@ -15421,16 +15435,7 @@
         "objectName": "NewTiledSprite7"
       },
       {
-        "objectName": "NewTiledSprite6"
-      },
-      {
-        "objectName": "NewTiledSprite8"
-      },
-      {
         "objectName": "NewTiledSprite9"
-      },
-      {
-        "objectName": "NewTiledSprite11"
       },
       {
         "objectName": "mainlevWall"
@@ -15674,7 +15679,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "FootStep",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -15776,7 +15780,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Collision",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -15878,7 +15881,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Interactable",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",

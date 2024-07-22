@@ -1500,6 +1500,15 @@
         "name": "NewSprite3",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild6.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mainlevbuild6.png3",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
