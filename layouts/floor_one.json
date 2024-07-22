@@ -12077,7 +12077,14 @@
       "zOrder": 203,
       "numberProperties": [],
       "stringProperties": [],
-      "initialVariables": []
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "id",
+          "type": "number",
+          "value": 2
+        }
+      ]
     },
     {
       "angle": 0,
@@ -12093,7 +12100,14 @@
       "zOrder": 204,
       "numberProperties": [],
       "stringProperties": [],
-      "initialVariables": []
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "id",
+          "type": "number",
+          "value": 1
+        }
+      ]
     },
     {
       "angle": 0,
@@ -12144,6 +12158,52 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DetectionArea",
+      "persistentUuid": "d9f1590a-9416-45dd-9098-4215e8552297",
+      "width": 0,
+      "x": 137,
+      "y": 213,
+      "zOrder": 208,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "parent",
+          "type": "number",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DetectionArea",
+      "persistentUuid": "a88e6e2a-879e-46bb-950e-6a0a2b8a112b",
+      "width": 0,
+      "x": 89,
+      "y": 213,
+      "zOrder": 209,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "parent",
+          "type": "number",
+          "value": 2
+        }
+      ]
     }
   ],
   "objects": [
@@ -13111,9 +13171,9 @@
           "IsCalledManually": false
         },
         {
-          "acceleration": 10000,
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+          "acceleration": 10000,
           "angularMaxSpeed": 180,
           "deceleration": 10000,
           "maxSpeed": 100,
@@ -13158,11 +13218,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
@@ -13194,11 +13254,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
@@ -13230,11 +13290,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
@@ -13266,11 +13326,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
@@ -13314,11 +13374,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
@@ -13350,11 +13410,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
@@ -13386,11 +13446,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
@@ -13422,11 +13482,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
-                        "y": 8
+                        "y": 15
                       },
                       {
                         "x": 15,
@@ -14723,9 +14783,21 @@
       "name": "Pumpkin_NPC",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "InitalAngle",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "effects": [],
       "behaviors": [
+        {
+          "name": "Draggable",
+          "type": "DraggableBehavior::Draggable",
+          "checkCollisionMask": false
+        },
         {
           "name": "YSort",
           "type": "YSort::YSort"
@@ -15127,6 +15199,117 @@
         "characterSize": 15,
         "color": "0;0;0"
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "DetectionArea",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "parent",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "InitalAngle",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "DistanceToParent",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "AngleToParent",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "angle",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "distanceX",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "distanceY",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 45
+                      },
+                      {
+                        "x": 25,
+                        "y": 0
+                      },
+                      {
+                        "x": 36.5,
+                        "y": 0
+                      },
+                      {
+                        "x": 56,
+                        "y": 45
+                      },
+                      {
+                        "x": 46.5,
+                        "y": 54.5
+                      },
+                      {
+                        "x": 16.5,
+                        "y": 53
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -15266,6 +15449,9 @@
       },
       {
         "objectName": "key_UI"
+      },
+      {
+        "objectName": "DetectionArea"
       }
     ]
   },
@@ -15692,6 +15878,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Interactable",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -15718,6 +15905,16 @@
               "parameters": [
                 "",
                 "e"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Keys",
+                ">=",
+                "1"
               ]
             },
             {
@@ -16039,12 +16236,13 @@
           "conditions": [
             {
               "type": {
-                "value": "Distance"
+                "value": "CollisionNP"
               },
               "parameters": [
                 "Knight_Player",
-                "Pumpkin_NPC",
+                "DetectionArea",
                 "30",
+                "",
                 ""
               ]
             },
@@ -16072,6 +16270,14 @@
             },
             {
               "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Knight_Player"
+              ]
+            },
+            {
+              "type": {
                 "value": "Montre"
               },
               "parameters": [
@@ -16095,6 +16301,146 @@
                 "Knight_Player",
                 "\"Floor_One\"",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Parenting\n"
+        },
+        {
+          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Pumpkin_NPC",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "DetectionArea",
+                    "parent",
+                    "=",
+                    "Pumpkin_NPC.Variable(id)"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "DetectionArea",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "LinkedObjects::LinkObjects"
+                      },
+                      "parameters": [
+                        "",
+                        "Pumpkin_NPC",
+                        "DetectionArea"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "DetectionArea",
+                        "InitalAngle",
+                        "=",
+                        "Pumpkin_NPC.Angle()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "DetectionArea",
+                        "DistanceToParent",
+                        "=",
+                        "Pumpkin_NPC.Distance(DetectionArea)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "DetectionArea",
+                        "AngleToParent",
+                        "=",
+                        "ToDeg(atan2(DetectionArea.PointY(\"Centre\")-Pumpkin_NPC.PointY(\"Centre\"),DetectionArea.PointX(\"Centre\") - Pumpkin_NPC.PointX(\"Centre\")))"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Pumpkin_NPC",
+          "conditions": [
+            {
+              "type": {
+                "value": "LinkedObjects::PickObjectsLinkedTo"
+              },
+              "parameters": [
+                "DetectionArea",
+                "DetectionArea",
+                "Pumpkin_NPC",
+                "Pumpkin_NPC.Variable(id)"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreAutour"
+              },
+              "parameters": [
+                "DetectionArea",
+                "Pumpkin_NPC",
+                "DetectionArea.Variable(DistanceToParent)",
+                "Pumpkin_NPC.Angle() + DetectionArea.Variable(AngleToParent)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "DetectionArea",
+                "=",
+                "Pumpkin_NPC.Angle() + DetectionArea.Variable(InitalAngle)"
               ]
             }
           ]

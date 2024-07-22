@@ -1,0 +1,191 @@
+{
+  "associatedLayout": "Floor_One",
+  "lastChangeTimeStamp": 0,
+  "name": "Guard_Dectection",
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::ForEach",
+      "object": "Pumpkin_NPC",
+      "conditions": [],
+      "actions": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "DetectionArea",
+          "conditions": [
+            {
+              "type": {
+                "value": "LinkedObjects::PickObjectsLinkedTo"
+              },
+              "parameters": [
+                "",
+                "Pumpkin_NPC",
+                "DetectionArea",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "DetectionArea",
+                "angle",
+                "=",
+                "DetectionArea.Angle()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "DetectionArea",
+                "distanceX",
+                "=",
+                "Pumpkin_NPC.PointX(\"Centre\") - Pumpkin_NPC.PointY(\"Centre\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "DetectionArea",
+                "distanceY",
+                "=",
+                "Pumpkin_NPC.PointY(\"Centre\") - DetectionArea.PointY(\"Centre\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "DetectionArea",
+                "=",
+                "Pumpkin_NPC.Angle() + DetectionArea.Variable(angle)"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "DetectionArea.PointX(\"Centre\")",
+                    ">",
+                    "Pumpkin_NPC.PointX(\"Centre\")"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "DetectionArea",
+                    "distanceX",
+                    "=",
+                    "sqrt(DetectionArea.Variable(distanceX) * DetectionArea.Variable(distanceX))"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "DetectionArea.PointX(\"Centre\")",
+                    "<",
+                    "Pumpkin_NPC.PointX(\"Centre\")"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "DetectionArea",
+                    "distanceX",
+                    "=",
+                    "sqrt(DetectionArea.Variable(distanceX) * DetectionArea.Variable(distanceX)) * -1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "DetectionArea.PointY(\"Centre\")",
+                    ">",
+                    "Pumpkin_NPC.PointY(\"Centre\")"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "DetectionArea",
+                    "distanceY",
+                    "=",
+                    "sqrt(DetectionArea.Variable(distanceY) * DetectionArea.Variable(distanceY))"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "DetectionArea.PointY(\"Centre\")",
+                    "<",
+                    "Pumpkin_NPC.PointY(\"Centre\")"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "DetectionArea",
+                    "distanceY",
+                    "=",
+                    "sqrt(DetectionArea.Variable(distanceY) * DetectionArea.Variable(distanceY)) * -1"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
