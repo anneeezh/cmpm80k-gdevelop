@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Found",
+		"tags": "",
+		"body": "<<nameTag Guards >>\nStop Right There!\n<<nameTag Player >>\nOh no...",
+		"position": {
+			"x": 290,
+			"y": 221
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Start_Prisoner_1",
+		"tags": "",
+		"body": "<<nameTag Jeff>>\nYou have finally wake up.\n<<nameTag Player>>\nuh... Who am I?\n<<nameTag Jeff >>\nWhat!? You lose your memory?\n<<nameTag Player>>\nI guess so...\n<<nameTag Jeff>>\nsigh... You were the most powerful knight in this world. But You got betrayed by your friend.\n<<nameTag Player>>\nUHHHHH, I... I remember...\n<<nameTag Jeff>>\nI think you should try to escape my friend.\n<<nameTag Player>>\nsure, lets do it!!!",
+		"position": {
+			"x": -9,
+			"y": 310
+		},
+		"colorID": 0
+	}
+]

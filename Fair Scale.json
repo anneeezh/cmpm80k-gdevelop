@@ -1527,6 +1527,116 @@
         "name": "assets\\Door Frame Left2.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/wall_banner_yellow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\wall_banner_yellow.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite6.png\"}",
+        "name": "NewSprite6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Button With Stone Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Red Button With Stone Frame_Hovered.png\",\"extension\":\".png\"}",
+        "name": "d9f2505db653cb1b2521765fbc9c9f95794067d8ae038e3e6a8c14b8075b7181_Red Button With Stone Frame_Hovered.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/d9f2505db653cb1b2521765fbc9c9f95794067d8ae038e3e6a8c14b8075b7181_Red Button With Stone Frame_Hovered.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/dialogue.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/dialogue.json\"}",
+        "name": "dialogue",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Stone Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Purple Button With Stone Frame_Pressed.png\",\"extension\":\".png\"}",
+        "name": "631710ee61e5e5422c9986ae91169e2e76e3f874a1aca8d2b02d6b5675348256_Purple Button With Stone Frame_Pressed.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/631710ee61e5e5422c9986ae91169e2e76e3f874a1aca8d2b02d6b5675348256_Purple Button With Stone Frame_Pressed.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/dwarf_f_idle_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\dwarf_f_idle_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/dwarf_f_idle_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\dwarf_f_idle_anim_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/dwarf_f_idle_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\dwarf_f_idle_anim_f2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/dwarf_f_idle_anim_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\dwarf_f_idle_anim_f3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button With Stone Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Green Button With Stone Frame_Pressed.png\",\"extension\":\".png\"}",
+        "name": "8921367f00ac169c0565935cbcaed36d5f383f7d3c4e819fbd7384a89dae1d43_Green Button With Stone Frame_Pressed.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/8921367f00ac169c0565935cbcaed36d5f383f7d3c4e819fbd7384a89dae1d43_Green Button With Stone Frame_Pressed.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -2510,6 +2620,9 @@
         },
         {
           "name": "Chest1"
+        },
+        {
+          "name": "Prisoner1"
         }
       ]
     }
@@ -2518,6 +2631,18 @@
     {
       "folded": true,
       "name": "Keys",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "Jeff_dialogueState",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "textScrollSpeed",
       "type": "number",
       "value": 0
     }
