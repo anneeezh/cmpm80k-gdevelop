@@ -1344,16 +1344,211 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "file": "assets/AlfaSlabOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "b305b7193d676ab791438e1086c2dd4e95a7d0562d5de8619aace1ac688dceae_AlfaSlabOne-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/b305b7193d676ab791438e1086c2dd4e95a7d0562d5de8619aace1ac688dceae_AlfaSlabOne-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainlevbuild6.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\mainlevbuild6.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/chest_empty_open_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\chest_empty_open_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/chest_empty_open_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\chest_empty_open_anim_f1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/chest_empty_open_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\chest_empty_open_anim_f2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/SFX/01_chest_open_1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\SFX\\01_chest_open_1.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/pumpkin_dude_idle_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\pumpkin_dude_idle_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/pumpkin_dude_idle_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\pumpkin_dude_idle_anim_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/pumpkin_dude_idle_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\pumpkin_dude_idle_anim_f2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/pumpkin_dude_idle_anim_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\pumpkin_dude_idle_anim_f3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/pumpkin_dude_run_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\pumpkin_dude_run_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/pumpkin_dude_run_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\pumpkin_dude_run_anim_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/pumpkin_dude_run_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\pumpkin_dude_run_anim_f2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/pumpkin_dude_run_anim_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\pumpkin_dude_run_anim_f3.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
   },
-  "objects": [],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Interact_UI",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Press E to Interact",
+      "font": "b305b7193d676ab791438e1086c2dd4e95a7d0562d5de8619aace1ac688dceae_AlfaSlabOne-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 10,
+      "color": {
+        "b": 9,
+        "g": 9,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 1,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 0,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 125,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Press E to Interact",
+        "font": "b305b7193d676ab791438e1086c2dd4e95a7d0562d5de8619aace1ac688dceae_AlfaSlabOne-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 10,
+        "color": "255;9;9"
+      }
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Interact_UI"
+      }
+    ]
   },
-  "objectsGroups": [],
-  "variables": [],
+  "objectsGroups": [
+    {
+      "name": "Interactable",
+      "objects": [
+        {
+          "name": "Door"
+        },
+        {
+          "name": "Chest1"
+        }
+      ]
+    }
+  ],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Keys",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -1366,6 +1561,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/optionmenu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/floor_two"
     }
   ],
   "externalEvents": [],
