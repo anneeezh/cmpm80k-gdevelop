@@ -14,8 +14,18 @@
 		"tags": "",
 		"body": "<<nameTag Jeff>>\nYou have finally wake up.\n<<nameTag Player>>\nuh... Who am I?\n<<nameTag Jeff >>\nWhat!? You lose your memory?\n<<nameTag Player>>\nI guess so...\n<<nameTag Jeff>>\nsigh... You were the most powerful knight in this world. But You got betrayed by your friend.\n<<nameTag Player>>\nUHHHHH, I... I remember...\n<<nameTag Jeff>>\nI think you should try to escape my friend.\n<<nameTag Player>>\nsure, lets do it!!!",
 		"position": {
-			"x": -9,
-			"y": 310
+			"x": 291,
+			"y": -35
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Books",
+		"tags": "",
+		"body": "<<nameTag Book>>\nIntroduction:\n<<nameTag Book>>\n\"In the heart of the medieval village of Eldershire, where dense forests whisper ancient secrets and rivers sing the songs of yore, lived a young boy with dreams of grandeur and adventure.\"\n<<nameTag Book>>\n\"Born to humble farmers, this boy was instilled with the virtues of hard work and honesty. His days were spent tending to fields, but his heart yearned for the mysteries that lay beyond.\"\n<<nameTag Book>>\n\"At the tender age of 12, fate led him to Sir Reginald, a knight of old, whose dwelling lay on the village's outskirts. The boy, driven by an insatiable curiosity and a yearning for valor, begged Sir Reginald to take him under his wing.\"\n<<nameTag Player>>\nWhere is the rest of the pages?\n",
+		"position": {
+			"x": 294,
+			"y": 473
 		},
 		"colorID": 0
 	}

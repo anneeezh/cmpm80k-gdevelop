@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 2.6673320058338654,
+    "zoomFactor": 2.4961516171084237,
     "windowMask": false
   },
   "objectsGroups": [
@@ -574,38 +574,6 @@
       "x": 192,
       "y": 496,
       "zOrder": 60,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "0144421c-575c-4f5d-b4de-029a928fcab6",
-      "width": 0,
-      "x": 192,
-      "y": 512,
-      "zOrder": 61,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "b8c90a69-3aba-4e94-85b8-5df1ce9ce1ab",
-      "width": 0,
-      "x": 192,
-      "y": 528,
-      "zOrder": 62,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -5535,8 +5503,8 @@
       "name": "Knight_Player",
       "persistentUuid": "6441bc76-2d9a-4e75-8c61-05d4af433717",
       "width": 0,
-      "x": 347,
-      "y": 41,
+      "x": 155,
+      "y": 537,
       "zOrder": 150,
       "numberProperties": [],
       "stringProperties": [],
@@ -10375,22 +10343,6 @@
       "initialVariables": []
     },
     {
-      "angle": 270,
-      "customSize": true,
-      "depth": 1,
-      "height": 7,
-      "layer": "",
-      "name": "NewTiledSprite12",
-      "persistentUuid": "84396175-0770-4c91-86e9-1a5bd6ec2b01",
-      "width": 419,
-      "x": -4,
-      "y": 379,
-      "zOrder": 190,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
       "angle": 0,
       "customSize": false,
       "height": 0,
@@ -10463,8 +10415,8 @@
       "name": "Chest1",
       "persistentUuid": "58d5be70-fe78-4b58-9944-f654c5669709",
       "width": 0,
-      "x": 95,
-      "y": 542,
+      "x": 81,
+      "y": 495,
       "zOrder": 205,
       "numberProperties": [],
       "stringProperties": [],
@@ -11503,23 +11455,6 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 22,
-      "keepRatio": true,
-      "layer": "Dialogue",
-      "name": "dialogue",
-      "persistentUuid": "450936d5-6c85-430e-bb46-6aad5bb38f49",
-      "width": 401,
-      "x": 414,
-      "y": 450,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -11633,7 +11568,7 @@
       "persistentUuid": "c2d89875-8bed-4e1a-b016-25073c22405b",
       "width": 8,
       "x": 201,
-      "y": 173,
+      "y": 172,
       "zOrder": 2006,
       "numberProperties": [],
       "stringProperties": [],
@@ -12005,26 +11940,9 @@
       "name": "Skip_Guide",
       "persistentUuid": "b0ae2ec3-91c6-4ec1-9065-6b68e99e7baf",
       "width": 0,
-      "x": 640,
+      "x": 562,
       "y": 599,
       "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 16,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Book",
-      "persistentUuid": "8dd5c050-bd7e-4ba6-9985-866e989e1057",
-      "width": 15,
-      "x": 177,
-      "y": 462,
-      "zOrder": 2022,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -12036,12 +11954,12 @@
       "height": 15,
       "keepRatio": true,
       "layer": "",
-      "name": "Gear",
-      "persistentUuid": "44ec3d91-a523-4f63-8587-e124fc919843",
-      "width": 14,
-      "x": 96,
-      "y": 464,
-      "zOrder": 2023,
+      "name": "Book",
+      "persistentUuid": "8dd5c050-bd7e-4ba6-9985-866e989e1057",
+      "width": 13,
+      "x": 193,
+      "y": 511,
+      "zOrder": 2022,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -12073,8 +11991,8 @@
       "name": "Boundaries",
       "persistentUuid": "484bc554-c536-4316-ae69-be311a2977f7",
       "width": 64,
-      "x": 386,
-      "y": 140,
+      "x": 383,
+      "y": 405,
       "zOrder": 2025,
       "numberProperties": [],
       "stringProperties": [],
@@ -12106,6 +12024,214 @@
           "name": "id",
           "type": "string",
           "value": "Top"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 213,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "de17107a-0853-4e43-9616-f085f0f9301c",
+      "width": 6,
+      "x": 448,
+      "y": 203,
+      "zOrder": 2027,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 213,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "ec3ef6a3-653e-4c22-b614-07d2e9813550",
+      "width": 6,
+      "x": 607,
+      "y": 466,
+      "zOrder": 2027,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 25,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "fa4a37a8-d33c-44db-a102-5b4ef82bd7b4",
+      "width": 368,
+      "x": 609,
+      "y": 654,
+      "zOrder": 2028,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 211,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "0ddf36c5-fd46-47a0-bf85-131cb8882209",
+      "width": 6,
+      "x": 972,
+      "y": 444,
+      "zOrder": 2029,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 69,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "10e2ee07-8042-4f84-a81a-58870820d3a8",
+      "width": 64,
+      "x": 542,
+      "y": 141,
+      "zOrder": 2030,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 6,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "31447a75-7a45-445e-b9a0-d6069a81d9d7",
+      "width": 95,
+      "x": 447,
+      "y": 141,
+      "zOrder": 2031,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 7,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "5b449af4-3fdc-409b-924e-67672eb7851b",
+      "width": 94,
+      "x": 448,
+      "y": 203,
+      "zOrder": 2032,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Lever",
+      "persistentUuid": "91182302-f70a-4341-b80f-3bc6181db1bd",
+      "width": 0,
+      "x": 943,
+      "y": 607,
+      "zOrder": 2033,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 17,
+      "keepRatio": true,
+      "layer": "Dialogue",
+      "name": "dialogue",
+      "persistentUuid": "89983b15-bd9e-42a0-a72a-093127a3e450",
+      "width": 429,
+      "x": 398,
+      "y": 439,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 14,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Book1",
+      "persistentUuid": "fe57a5d3-e841-4582-a371-fdda0e617cd5",
+      "width": 12,
+      "x": 587,
+      "y": 290,
+      "zOrder": 2034,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 90,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "CrackedFloor",
+      "persistentUuid": "c0e92a6c-1453-43fa-8a4f-3e0dbd631311",
+      "width": 0,
+      "x": 81,
+      "y": 496,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "CrackedFloor2",
+      "persistentUuid": "eebd0fe3-13b9-4a5d-88de-ab956bfa1fc2",
+      "width": 0,
+      "x": 193,
+      "y": 511,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "id",
+          "type": "number",
+          "value": 0
         }
       ]
     }
@@ -12986,27 +13112,6 @@
           ]
         }
       ]
-    },
-    {
-      "assetStoreId": "",
-      "height": 32,
-      "name": "huh",
-      "texture": "candleA_03.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 32,
-      "variables": [],
-      "effects": [
-        {
-          "effectType": "Brightness",
-          "name": "Effect",
-          "doubleParameters": {
-            "brightness": 0.8
-          },
-          "stringParameters": {},
-          "booleanParameters": {}
-        }
-      ],
-      "behaviors": []
     },
     {
       "assetStoreId": "",
@@ -13980,6 +14085,140 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "CrackedFloor",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "id",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Floor_Cracks7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "CrackedFloor2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "id",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\frames\\floor_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -14067,9 +14306,6 @@
         ]
       },
       {
-        "objectName": "huh"
-      },
-      {
         "objectName": "NewTiledSprite3"
       },
       {
@@ -14092,6 +14328,12 @@
       },
       {
         "objectName": "Boundaries"
+      },
+      {
+        "objectName": "CrackedFloor"
+      },
+      {
+        "objectName": "CrackedFloor2"
       }
     ]
   },
@@ -14123,13 +14365,12 @@
         },
         {
           "type": {
-            "value": "CentreCamera"
+            "value": "ZoomCamera"
           },
           "parameters": [
             "",
-            "Knight_Player",
+            "3",
             "",
-            "\"deco\"",
             ""
           ]
         },
@@ -14140,7 +14381,7 @@
           "parameters": [
             "",
             "3",
-            "",
+            "\"deco\"",
             ""
           ]
         },
@@ -14569,7 +14810,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Interactable",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -14599,6 +14839,74 @@
                 "",
                 "\"Floor_Two\"",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Interactable",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Interact_UI",
+                "=",
+                "Knight_Player.PointX(\"Origin\")+10",
+                "=",
+                "Knight_Player.PointY(\"Origin\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Interact_UI",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Interactable",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Interact_UI"
               ]
             }
           ]
@@ -14769,74 +15077,6 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Knight_Player",
-                "Interactable",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "Interact_UI",
-                "=",
-                "Knight_Player.PointX(\"Origin\")+10",
-                "=",
-                "Knight_Player.PointY(\"Origin\")"
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "Interact_UI",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Knight_Player",
-                "Interactable",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "Interact_UI"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
                 "value": "BuiltinCommonInstructions::And"
               },
               "parameters": [],
@@ -14939,6 +15179,325 @@
               ]
             }
           ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Book(Story)",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Book1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Book2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Book3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Book4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Book5"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "CrackedFloor2",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "CrackedFloor2",
+                    "id",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Book",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "CrackedFloor2",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "CrackedFloor2",
+                    "id",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Book"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "CrackedFloor",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "CrackedFloor",
+                    "id",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Chest1",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "CrackedFloor",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "CrackedFloor",
+                    "id",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Chest1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Knight_Player",
+                    "Book",
+                    "30",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DialogueTree::IsDialogueRunning"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scrollText\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::StartDialogueFromBranch"
+                  },
+                  "parameters": [
+                    "\"Books\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Book",
+                    "Read",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Book",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "parameters": []
@@ -14948,6 +15507,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "NPC",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -14985,16 +15545,6 @@
                 "value": "DialogueTree::IsDialogueRunning"
               },
               "parameters": []
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "Keys",
-                "<",
-                "1"
-              ]
             }
           ],
           "actions": [
@@ -15291,42 +15841,29 @@
           "actions": [],
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "CollisionNP"
+                    "inverted": true,
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
                   },
                   "parameters": [
                     "Pumpkin_NPC",
-                    "Boundaries",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "StringObjectVariable"
-                  },
-                  "parameters": [
-                    "Boundaries",
-                    "id",
-                    "=",
-                    "\"Down\""
+                    "Flippable"
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "RotateTowardAngle"
+                    "value": "TopDownMovementBehavior::SimulateControl"
                   },
                   "parameters": [
                     "Pumpkin_NPC",
-                    "180",
-                    "0",
-                    ""
+                    "TopDownMovement",
+                    "\"Down\""
                   ]
                 }
               ],
@@ -15336,56 +15873,130 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "Angle"
+                        "value": "CollisionNP"
                       },
                       "parameters": [
                         "Pumpkin_NPC",
+                        "Boundaries",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "Boundaries",
+                        "id",
                         "=",
-                        "180"
+                        "\"Down\""
                       ]
                     }
                   ],
-                  "actions": []
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "RotateTowardAngle"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "180",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
                 }
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "CollisionNP"
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
                   },
                   "parameters": [
                     "Pumpkin_NPC",
-                    "Boundaries",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "StringObjectVariable"
-                  },
-                  "parameters": [
-                    "Boundaries",
-                    "id",
-                    "=",
-                    "\"Top\""
+                    "Flippable"
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "RotateTowardAngle"
+                    "value": "TopDownMovementBehavior::SimulateControl"
                   },
                   "parameters": [
                     "Pumpkin_NPC",
-                    "0",
-                    "0",
-                    ""
+                    "TopDownMovement",
+                    "\"Up\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "Boundaries",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "Boundaries",
+                        "id",
+                        "=",
+                        "\"Top\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "RotateTowardAngle"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "0",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "Flippable",
+                        "no"
+                      ]
+                    }
                   ]
                 }
               ]
@@ -15400,6 +16011,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Dialogue",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -15699,6 +16311,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -15762,18 +16375,25 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyReleased"
+                    "value": "BuiltinCommonInstructions::And"
                   },
-                  "parameters": [
-                    "",
-                    "Space"
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "AnyKeyPressed"
+                      },
+                      "parameters": [
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "DialogueTree::HasClippedTextScrollingCompleted"
+                      },
+                      "parameters": []
+                    }
                   ]
-                },
-                {
-                  "type": {
-                    "value": "DialogueTree::HasClippedTextScrollingCompleted"
-                  },
-                  "parameters": []
                 }
               ],
               "actions": [
@@ -15806,34 +16426,7 @@
                   "parameters": [
                     "textScrollSpeed",
                     "=",
-                    "0.01"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Space"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "textScrollSpeed",
-                    "=",
-                    "0.05"
+                    "0"
                   ]
                 }
               ]
@@ -16249,7 +16842,7 @@
       "isLocked": false,
       "name": "Boundaries",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
