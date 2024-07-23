@@ -26,23 +26,6 @@
   "instances": [
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 9,
-      "keepRatio": true,
-      "layer": "UI",
-      "name": "key_UI",
-      "persistentUuid": "e677c25a-a4e9-43d6-bf70-47a0e5a386a9",
-      "width": 40,
-      "x": 38,
-      "y": 23,
-      "zOrder": 206,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "keepRatio": true,

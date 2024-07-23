@@ -1930,6 +1930,97 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/d9f0792f91e3d7948395be2a60773d80eebd8bcc8f506668db7fdafc3a1a8b12_Orange Button With Stone Frame_Hovered.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Blue Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/aa81b97c3211cf1e7cd040b96f5409851e3f1141c496b064157588294f09e662_Dot Bar Blue Border.png",
+          "name": "Dot Bar Blue Border.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Blue Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/0f15d828199d38d229469b48c953574c22a34b8daeb8941f3eb40df01a8f7d22_Dot Bar Blue Fill Bar.png",
+          "name": "Dot Bar Blue Fill Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tiled Empty UI Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Empty UI Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/688519c5bb4abaf5805518633f2ff810928e29164497fb5c13dabf97044be843_tiled_Tiled Empty UI Heart.png",
+          "name": "tiled_Tiled Empty UI Heart.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tiled Filler UI Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Filler UI Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/5b5c6c85ec4e1f5b6688be565c9a06920a76ee191915738afd61da1481fd6493_tiled_Tiled Filler UI Heart.png",
+          "name": "tiled_Tiled Filler UI Heart.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Scroll Empty Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Scroll Empty Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/f0aea5b9b3e205bd734be9061f0c8b7ecec83ee5c3e9e99d2cb2b6f1c724feb1_Scroll Empty Heart.png",
+          "name": "Scroll Empty Heart.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Scroll Full Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Scroll Full Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/724e875009329b18b3333082c0890b142288a9d8f17a084d2982c4ff0ab4be43_Scroll Full Heart.png",
+          "name": "Scroll Full Heart.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Scroll.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Scroll.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/a1f71ca4cfb367163f7e3c16fbf0f60da08de326f00249881ff1057f63789c95_Scroll.png",
+          "name": "Scroll.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -4153,88 +4244,6 @@
       ]
     },
     {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "key_UI",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "Key:0",
-      "font": "Charm-Regular.ttf",
-      "textAlignment": "left",
-      "characterSize": 30,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "Key:0",
-        "font": "Charm-Regular.ttf",
-        "textAlignment": "left",
-        "characterSize": 30,
-        "color": "0;0;0"
-      }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "Text_For_Guard",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "Stop Right there!",
-      "font": "b305b7193d676ab791438e1086c2dd4e95a7d0562d5de8619aace1ac688dceae_AlfaSlabOne-Regular.ttf",
-      "textAlignment": "left",
-      "characterSize": 15,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "Stop Right there!",
-        "font": "b305b7193d676ab791438e1086c2dd4e95a7d0562d5de8619aace1ac688dceae_AlfaSlabOne-Regular.ttf",
-        "textAlignment": "left",
-        "characterSize": 15,
-        "color": "0;0;0"
-      }
-    },
-    {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Gear",
@@ -4954,6 +4963,167 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
+      "name": "Mana",
+      "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "BarTopPadding": 3,
+        "BarLeftPadding": 4,
+        "BarRightPadding": 4,
+        "BarBottomPadding": 4,
+        "EasingDuration": 0,
+        "PreviousHighValueDuration": 0,
+        "ShowLabel": false,
+        "InitialValue": 10,
+        "MaxValue": 10
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 4,
+          "height": 26,
+          "leftMargin": 2,
+          "rightMargin": 2,
+          "texture": "Dot Bar Blue Border.png",
+          "tiled": false,
+          "topMargin": 3,
+          "width": 118
+        },
+        "Buffer": {
+          "bottomMargin": 0,
+          "height": 19,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Dot Bar Blue Fill Bar.png",
+          "tiled": true,
+          "topMargin": 0,
+          "width": 21
+        },
+        "FillBar": {
+          "bottomMargin": 0,
+          "height": 19,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Dot Bar Blue Fill Bar.png",
+          "tiled": true,
+          "topMargin": 0,
+          "width": 21
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "2 / 3",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "2 / 3",
+            "font": "",
+            "textAlignment": "",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        }
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Mana_UI",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Mana:",
+        "opacity": 255,
+        "scale": 0.3,
+        "fontSize": 20,
+        "tint": "26;26;26",
+        "bitmapFontResourceName": "assets\\Font\\Unnamed.fnt",
+        "textureAtlasResourceName": "assets\\Font\\Unnamed.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "611e6ddf02acb40ee8eb3af3e64bd1986774fa390b8511f82edf431efaaa6c84",
+      "name": "Heart_UI",
+      "type": "TiledUnitsBar::TiledUnitsBar",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "UnitWidth": 26,
+        "BarLeftPadding": 38,
+        "BarRightPadding": 38,
+        "MaxValue": 3,
+        "InitialValue": 3
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 30,
+          "height": 64,
+          "leftMargin": 64,
+          "rightMargin": 64,
+          "texture": "Scroll.png",
+          "tiled": false,
+          "topMargin": 30,
+          "width": 154
+        },
+        "Bar": {
+          "height": 26,
+          "texture": "Scroll Empty Heart.png",
+          "width": 78
+        },
+        "FillBar": {
+          "height": 26,
+          "texture": "Scroll Full Heart.png",
+          "width": 78
+        }
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "key_UI",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Key:0",
+        "opacity": 255,
+        "scale": 0.3,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "assets\\Font\\Unnamed.fnt",
+        "textureAtlasResourceName": "assets\\Font\\Unnamed.png",
+        "align": "left",
+        "wordWrap": true
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -5057,10 +5227,13 @@
         "folderName": "UIs",
         "children": [
           {
-            "objectName": "Interact_UI"
+            "objectName": "Heart_UI"
           },
           {
-            "objectName": "Text_For_Guard"
+            "objectName": "Mana"
+          },
+          {
+            "objectName": "Interact_UI"
           },
           {
             "objectName": "key_UI"
@@ -5070,6 +5243,9 @@
           },
           {
             "objectName": "dialogue"
+          },
+          {
+            "objectName": "Mana_UI"
           },
           {
             "objectName": "Skip_Guide"
@@ -5163,6 +5339,14 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/tiledunitsbar"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritecontinuousbar"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/timedbackandforthmovement"
