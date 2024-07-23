@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 2.4961516171084237,
+    "zoomFactor": 2.0457502621066075,
     "windowMask": false
   },
   "objectsGroups": [
@@ -5503,8 +5503,8 @@
       "name": "Knight_Player",
       "persistentUuid": "6441bc76-2d9a-4e75-8c61-05d4af433717",
       "width": 0,
-      "x": 155,
-      "y": 537,
+      "x": 143,
+      "y": 417,
       "zOrder": 150,
       "numberProperties": [],
       "stringProperties": [],
@@ -12234,6 +12234,22 @@
           "value": 0
         }
       ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Elizabeth",
+      "persistentUuid": "f8f2e16f-d1d2-47fb-a720-53c0255e3852",
+      "width": 0,
+      "x": 96,
+      "y": 324,
+      "zOrder": 2035,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -14810,6 +14826,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Interactable",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -15185,6 +15202,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Book(Story)",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15507,7 +15525,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "NPC",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -15667,6 +15684,58 @@
                 "Jeff_dialogueState",
                 "=",
                 "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Elizabeth",
+                "30",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DialogueTree::IsDialogueRunning"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"scrollText\""
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"Start_Elizabeth\""
               ]
             }
           ]
@@ -16011,7 +16080,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Dialogue",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",

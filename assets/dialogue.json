@@ -28,5 +28,15 @@
 			"y": 473
 		},
 		"colorID": 0
+	},
+	{
+		"title": "Start_Elizabeth",
+		"tags": "",
+		"body": "<<nameTag Player>>\nWhere am I? Who are you?\n<<nameTag Elizabeth>>\nYou're in the depths of the castle, imprisoned like many who have crossed the wrong people. My name is Elizabeth. I’ve been down here longer than I care to remember.\n<<nameTag Player>>\nI can’t remember anything. My head... it feels like it's been split open. How did I get here?\n<<nameTag Elizabeth>>\nYou were brought in unconscious. From what little I heard, you were betrayed by someone you trusted. It's a cruel fate, but perhaps not an unchangeable one.\n<<nameTag Player>>\nBetrayed? I don't even know who I am. How do I escape this place?\n<<nameTag Elizabeth>>\nEscape won’t be easy, but I believe you have a gift, one that even you might not realize yet. There are tales of knights with unique abilities, those who could turn their surroundings to their advantage.\n<<nameTag Player>>\nA gift? What kind of gift?\n<<nameTag Elizabeth >>\nYou might discover that some talents lie not in your memory, but in your instincts. \n\nI can’t say for sure. But look around you. The MOUSE might guide you. You might find you have the power to influence them in ways you never thought possible.\n<<nameTag Player>>\nAlright, I’ll keep that in mind. Thank you, Elizabeth.",
+		"position": {
+			"x": -182,
+			"y": 95
+		},
+		"colorID": 0
 	}
 ]
