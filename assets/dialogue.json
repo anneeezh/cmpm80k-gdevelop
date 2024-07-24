@@ -112,7 +112,7 @@
 	{
 		"title": "ManaPotion",
 		"tags": "",
-		"body": "<<nameTag Player >> \nYeah, a mana potion, that will help me\n(+10 Mana)",
+		"body": "<<nameTag Player >> \nYeah, a mana potion, that will help me\n(+5 Mana)",
 		"position": {
 			"x": 808,
 			"y": 130
