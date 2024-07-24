@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 2.045750262106612,
+    "zoomFactor": 1.5178368668045072,
     "windowMask": false
   },
   "objectsGroups": [
@@ -200,6 +200,7 @@
       "height": 385,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "Floor_1",
       "persistentUuid": "f5d32a6a-7e11-477e-b8be-1581342bd119",
       "width": 128,
@@ -792,6 +793,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "WallSideMidRight",
       "persistentUuid": "aebb6782-f1b7-4726-a618-65ebb1899d7a",
       "width": 0,
@@ -1227,230 +1229,6 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "f5f62b00-cb0c-42b3-8df2-21b743e1f6c4",
-      "width": 0,
-      "x": 368,
-      "y": 112,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "7e3b7e21-077f-4764-b2b3-5e208f06506a",
-      "width": 0,
-      "x": 368,
-      "y": 128,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "ecf7e197-83dd-4167-a9c8-48bae10e45a0",
-      "width": 0,
-      "x": 368,
-      "y": 144,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "6e86ee5c-b332-49aa-9d5b-ca55ba30cdc8",
-      "width": 0,
-      "x": 368,
-      "y": 160,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "afcaf66e-c326-4794-bfcf-4a3b3b5f8a1b",
-      "width": 0,
-      "x": 368,
-      "y": 112,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "96ab83e9-4420-466f-acad-fbd0c0e06b88",
-      "width": 0,
-      "x": 368,
-      "y": 128,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "62065a7c-b6c4-4716-8376-f2a7b120e779",
-      "width": 0,
-      "x": 368,
-      "y": 144,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "2b75f53a-ce96-43ca-8d29-b73a5f81182b",
-      "width": 0,
-      "x": 368,
-      "y": 160,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "fa066e63-cdb2-4c61-967a-a1c822fb36af",
-      "width": 0,
-      "x": 448,
-      "y": 32,
-      "zOrder": 125,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "5eed9325-eb83-489c-894d-3450af5ea3d4",
-      "width": 0,
-      "x": 448,
-      "y": 48,
-      "zOrder": 126,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "3d439640-881d-4b5c-ae16-1c07ee36944a",
-      "width": 0,
-      "x": 448,
-      "y": 64,
-      "zOrder": 127,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "077bdb19-3da4-49b6-a369-df4955671a0e",
-      "width": 0,
-      "x": 448,
-      "y": 80,
-      "zOrder": 128,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "766ac820-1736-451e-a16f-7d3e55a3bcc1",
-      "width": 0,
-      "x": 448,
-      "y": 96,
-      "zOrder": 129,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "0f211e73-8f98-4e44-85e5-043531313ee0",
-      "width": 0,
-      "x": 448,
-      "y": 112,
-      "zOrder": 130,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
       "name": "WallSideMidRight",
       "persistentUuid": "90287bdf-612e-4706-8b27-4ae284844215",
       "width": 0,
@@ -1468,171 +1246,11 @@
       "keepRatio": true,
       "layer": "",
       "name": "WallSideMidRight",
-      "persistentUuid": "3e5df5e9-31e9-4824-9ca7-9803b7d0fb9e",
-      "width": 0,
-      "x": 448,
-      "y": 112,
-      "zOrder": 128,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
       "persistentUuid": "cff9db87-08c2-4e5e-8d7a-6c1ccecffbc3",
       "width": 0,
       "x": 448,
       "y": 128,
       "zOrder": 129,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "8bf0d71d-4619-4efb-bb10-c72e2c2bd44e",
-      "width": 0,
-      "x": 368,
-      "y": 240,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "2984661f-b539-4e09-bbaf-91dd4cfbd7ff",
-      "width": 0,
-      "x": 368,
-      "y": 256,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "c2057cba-0b2d-41f8-89de-9f0ea994ce8c",
-      "width": 0,
-      "x": 368,
-      "y": 272,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "03f83797-1da5-47a3-91a8-4062bfe3d063",
-      "width": 0,
-      "x": 368,
-      "y": 288,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "2784800e-7388-439a-bc17-956dcdbd6fa2",
-      "width": 0,
-      "x": 368,
-      "y": 304,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "0d903512-26af-4f8e-b52d-2d8725ce3444",
-      "width": 0,
-      "x": 368,
-      "y": 320,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "4731bfab-133a-4676-a52e-3bd5905b4963",
-      "width": 0,
-      "x": 368,
-      "y": 336,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "95a6a841-7858-4476-9125-fb034685db6e",
-      "width": 0,
-      "x": 368,
-      "y": 352,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "1286a7f7-45a0-42aa-9e94-5a08ffaad44c",
-      "width": 0,
-      "x": 368,
-      "y": 368,
-      "zOrder": 122,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1758,28 +1376,13 @@
       "height": 64,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "Floor_1",
       "persistentUuid": "4f3e4b62-1b65-4b2e-b562-d9d0c522c5c6",
       "width": 592,
       "x": 384,
       "y": 416,
       "zOrder": -14,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "FullSouthwestCorner",
-      "persistentUuid": "169f4b80-ee31-4526-ac82-da6c46906cbb",
-      "width": 0,
-      "x": 448,
-      "y": 368,
-      "zOrder": 134,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1828,150 +1431,6 @@
       "x": 448,
       "y": 400,
       "zOrder": 137,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "FullSouthwestCorner",
-      "persistentUuid": "ba692919-b10d-435c-b683-d60cc74e5976",
-      "width": 0,
-      "x": 379,
-      "y": 432,
-      "zOrder": 138,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "b10d7f25-bef4-4d8c-9a51-66107b8dfb86",
-      "width": 0,
-      "x": 368,
-      "y": 384,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "cc89b721-9181-4819-bdb7-8d6595d848cd",
-      "width": 0,
-      "x": 368,
-      "y": 400,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "04a9535d-223b-45fc-bfd8-dd33dc736620",
-      "width": 0,
-      "x": 368,
-      "y": 416,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "eec18f65-865d-49e8-ba87-678bf7a92828",
-      "width": 0,
-      "x": 368,
-      "y": 432,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "4ff84e6f-c295-4eed-8a21-61656290ae2d",
-      "width": 0,
-      "x": 368,
-      "y": 416,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallLeft",
-      "persistentUuid": "59c2079d-5156-4c2f-beff-95731d1ec039",
-      "width": 0,
-      "x": 379,
-      "y": 464,
-      "zOrder": 139,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "5914b704-fcb3-41cb-b1c7-3c6452795a2b",
-      "width": 0,
-      "x": 384,
-      "y": 448,
-      "zOrder": -11,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "9e2d6ca4-133c-48b0-ae6a-5abb74a742d8",
-      "width": 0,
-      "x": 384,
-      "y": 464,
-      "zOrder": -12,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2094,38 +1553,6 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "0268d885-3e84-4f42-b432-76741c4da113",
-      "width": 0,
-      "x": 480,
-      "y": 368,
-      "zOrder": 147,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "cea52b5a-a292-4500-bcb8-4b9d79609c78",
-      "width": 0,
-      "x": 496,
-      "y": 368,
-      "zOrder": 148,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
       "name": "WallMid",
       "persistentUuid": "db0304c2-7249-40e6-8be5-dde9734a4d49",
       "width": 0,
@@ -2212,342 +1639,6 @@
       "x": 544,
       "y": 400,
       "zOrder": 145,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "7d42cca2-90ba-4805-8523-9e398150a6bf",
-      "width": 0,
-      "x": 512,
-      "y": 368,
-      "zOrder": 146,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "759763e4-81a9-4d11-9445-ff838dec1f89",
-      "width": 0,
-      "x": 528,
-      "y": 368,
-      "zOrder": 147,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "d242897f-ccee-4c57-b2e2-2fa5480ddb4d",
-      "width": 0,
-      "x": 544,
-      "y": 368,
-      "zOrder": 148,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "d48be948-6bec-4a98-8326-3cdb08d4953a",
-      "width": 0,
-      "x": 400,
-      "y": 448,
-      "zOrder": 140,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "bceb49ad-ae24-4085-89d5-7bcab54425f1",
-      "width": 0,
-      "x": 400,
-      "y": 464,
-      "zOrder": 141,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "5662d27c-540c-4d89-b5a3-6883bafac2a7",
-      "width": 0,
-      "x": 416,
-      "y": 448,
-      "zOrder": 142,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "416f806d-f51b-42a8-9924-41d842434e1c",
-      "width": 0,
-      "x": 416,
-      "y": 464,
-      "zOrder": 143,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "f868e29c-27ae-4af2-9743-80979b5c0fee",
-      "width": 0,
-      "x": 432,
-      "y": 448,
-      "zOrder": 144,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "8f3e9efa-ee1b-4f93-a6e3-3a98fe4eef50",
-      "width": 0,
-      "x": 432,
-      "y": 464,
-      "zOrder": 145,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "a627b1ce-0c16-4545-94d6-9654a9106b30",
-      "width": 0,
-      "x": 400,
-      "y": 432,
-      "zOrder": 146,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "552b31bc-a696-4908-af34-1120f95b1251",
-      "width": 0,
-      "x": 416,
-      "y": 432,
-      "zOrder": 147,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "687c3199-0fbf-4ca9-9624-94dec51293ef",
-      "width": 0,
-      "x": 432,
-      "y": 432,
-      "zOrder": 148,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "fd8fd282-5685-45db-947c-c6dc08a8ee1b",
-      "width": 0,
-      "x": 448,
-      "y": 448,
-      "zOrder": 140,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "2dc6cc29-226f-423f-b5d5-9cfeaa3a121a",
-      "width": 0,
-      "x": 448,
-      "y": 464,
-      "zOrder": 141,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "0ed6f759-a666-4278-967c-9b85e3a58555",
-      "width": 0,
-      "x": 464,
-      "y": 448,
-      "zOrder": 142,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "76dae047-9de9-4d87-927b-59d521ccaa41",
-      "width": 0,
-      "x": 464,
-      "y": 464,
-      "zOrder": 143,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "bfb7bcc9-60dd-480e-ad40-0d2424a5c296",
-      "width": 0,
-      "x": 480,
-      "y": 448,
-      "zOrder": 144,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "222d2810-ea2e-4434-ba5f-cf0981bd678a",
-      "width": 0,
-      "x": 480,
-      "y": 464,
-      "zOrder": 145,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "a60fe0ff-209e-4a96-b3f2-821e75cd403e",
-      "width": 0,
-      "x": 448,
-      "y": 432,
-      "zOrder": 146,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "179e18c1-f71d-452a-bd5e-7a2952cb2bc3",
-      "width": 0,
-      "x": 464,
-      "y": 432,
-      "zOrder": 147,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "41b36abc-5f94-482f-9ab1-a9c15d60ed37",
-      "width": 0,
-      "x": 480,
-      "y": 432,
-      "zOrder": 148,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2654,374 +1745,6 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "69db4dc2-89fa-490f-993c-f0336b0af372",
-      "width": 0,
-      "x": 560,
-      "y": 368,
-      "zOrder": 146,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "912a3284-67bb-46b2-a46e-1a6b915a8990",
-      "width": 0,
-      "x": 576,
-      "y": 368,
-      "zOrder": 147,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "a45e8a33-e1f2-4683-b060-a33d0ca1c9f2",
-      "width": 0,
-      "x": 592,
-      "y": 368,
-      "zOrder": 148,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "a72fc932-b206-4342-8bf1-9843ef5b305e",
-      "width": 0,
-      "x": 496,
-      "y": 448,
-      "zOrder": 140,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "c41e412a-1862-40c8-bdf8-5d6c01632f7d",
-      "width": 0,
-      "x": 496,
-      "y": 464,
-      "zOrder": 141,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "ff8376ba-b87e-4fde-8b4c-c0a86adec0cf",
-      "width": 0,
-      "x": 512,
-      "y": 448,
-      "zOrder": 142,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "6cc64d69-776c-4a6a-a7c4-45869de6c2e4",
-      "width": 0,
-      "x": 512,
-      "y": 464,
-      "zOrder": 143,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "3fd4f10f-6c5a-477c-a3fc-34dde2db18ca",
-      "width": 0,
-      "x": 528,
-      "y": 448,
-      "zOrder": 144,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "310d3afc-5444-4749-8676-dd9bacec44df",
-      "width": 0,
-      "x": 528,
-      "y": 464,
-      "zOrder": 145,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "9d2542df-6155-446d-94a1-b541d7b599f2",
-      "width": 0,
-      "x": 496,
-      "y": 432,
-      "zOrder": 146,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "2592362d-0c33-4e76-a1cb-d0e2c8736b5e",
-      "width": 0,
-      "x": 512,
-      "y": 432,
-      "zOrder": 147,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "55d78822-7901-4a14-95f8-6e026bb9eec8",
-      "width": 0,
-      "x": 528,
-      "y": 432,
-      "zOrder": 148,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "9679f91d-b0ed-4dc3-bef4-cff9686d2e4d",
-      "width": 0,
-      "x": 544,
-      "y": 448,
-      "zOrder": 140,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "c6bf85c1-9e45-4fff-beaa-21d429cb4a84",
-      "width": 0,
-      "x": 544,
-      "y": 464,
-      "zOrder": 141,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "9f29626f-aa3e-4359-8d50-feceeabf33c6",
-      "width": 0,
-      "x": 560,
-      "y": 448,
-      "zOrder": 142,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "97e5fd7e-2d7f-497f-9008-3b33495b351f",
-      "width": 0,
-      "x": 560,
-      "y": 464,
-      "zOrder": 143,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "67061536-3a96-4ca2-a64f-1d88c74da465",
-      "width": 0,
-      "x": 576,
-      "y": 448,
-      "zOrder": 144,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "1b14fcf0-babf-4df5-ad9e-466da92a0146",
-      "width": 0,
-      "x": 576,
-      "y": 464,
-      "zOrder": 145,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "20920fd7-37b9-44fb-b5fe-bf72deabcae5",
-      "width": 0,
-      "x": 544,
-      "y": 432,
-      "zOrder": 146,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "6ddac668-7671-45b9-a46f-8129396a3a5d",
-      "width": 0,
-      "x": 560,
-      "y": 432,
-      "zOrder": 147,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "e3f449a1-2f35-4f6a-b658-09e57a006db0",
-      "width": 0,
-      "x": 576,
-      "y": 432,
-      "zOrder": 148,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "dc9dd488-5d8e-43ed-a8c9-38394c71eeb7",
-      "width": 0,
-      "x": 592,
-      "y": 448,
-      "zOrder": 140,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "17188576-158c-476d-9d9a-329a440cda3f",
-      "width": 0,
-      "x": 592,
-      "y": 464,
-      "zOrder": 141,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
       "name": "WallMid",
       "persistentUuid": "6a7e1214-bad2-46db-984f-f332ee5ccc33",
       "width": 0,
@@ -3044,22 +1767,6 @@
       "x": 624,
       "y": 464,
       "zOrder": 145,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "9534c1af-0eba-4c61-a90d-2fe2137839ed",
-      "width": 0,
-      "x": 592,
-      "y": 432,
-      "zOrder": 146,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -3316,54 +2023,6 @@
       "x": 640,
       "y": 400,
       "zOrder": 145,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "1387a33c-f46b-4770-bfa2-b703db8ee0ac",
-      "width": 0,
-      "x": 608,
-      "y": 368,
-      "zOrder": 146,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "f4da1412-355a-439f-9c13-f4d024306295",
-      "width": 0,
-      "x": 624,
-      "y": 368,
-      "zOrder": 147,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "70ef29ca-37fe-4aca-ba85-0c27195a2802",
-      "width": 0,
-      "x": 640,
-      "y": 368,
-      "zOrder": 148,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -4033,7 +2692,7 @@
       "name": "WallTopMid",
       "persistentUuid": "514dd8f7-c795-4a36-9f15-ca4d09fa4bbe",
       "width": 0,
-      "x": 944,
+      "x": 941,
       "y": 432,
       "zOrder": 146,
       "numberProperties": [],
@@ -4292,22 +2951,6 @@
       "x": 800,
       "y": 400,
       "zOrder": 143,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "c0537360-7c65-4703-8319-33d03086ea55",
-      "width": 0,
-      "x": 784,
-      "y": 368,
-      "zOrder": 146,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -4881,9 +3524,9 @@
       "name": "Knight_Player",
       "persistentUuid": "6441bc76-2d9a-4e75-8c61-05d4af433717",
       "width": 0,
-      "x": 136,
-      "y": 528,
-      "zOrder": 150,
+      "x": 710,
+      "y": 352,
+      "zOrder": 200,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -4916,86 +3559,6 @@
       "x": 128,
       "y": 157,
       "zOrder": 149,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "8ef49a3e-ad9a-4400-98f6-b9cc50bc444c",
-      "width": 0,
-      "x": 368,
-      "y": 176,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "71023266-4ff8-4279-8e23-91344c5addcf",
-      "width": 0,
-      "x": 368,
-      "y": 192,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "83e1aec1-7e53-486c-ad81-c4a11456583e",
-      "width": 0,
-      "x": 368,
-      "y": 208,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "5fceda03-e018-4052-b9cc-1d8548435bab",
-      "width": 0,
-      "x": 368,
-      "y": 224,
-      "zOrder": 122,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "d7b62dc8-fae7-4260-9c96-478818483a9d",
-      "width": 0,
-      "x": 368,
-      "y": 240,
-      "zOrder": 122,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -5396,22 +3959,6 @@
       "x": 624,
       "y": 624,
       "zOrder": 52,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "2d879514-ec33-425f-8403-8d65f8df9538",
-      "width": 0,
-      "x": 608,
-      "y": 624,
-      "zOrder": 68,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -6543,6 +5090,7 @@
       "height": 192,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "Floor_1",
       "persistentUuid": "4fd06167-b011-4f32-804b-dec2c3395ca1",
       "width": 368,
@@ -8112,6 +6660,7 @@
       "height": 128,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "Floor_1",
       "persistentUuid": "4068c858-e2a2-4a2e-b239-a19119365ac7",
       "width": 464,
@@ -8246,22 +6795,6 @@
       "x": 448,
       "y": 272,
       "zOrder": 24,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "FullSouthwestCorner",
-      "persistentUuid": "21463c0f-2637-48e3-a087-749a9dd009aa",
-      "width": 0,
-      "x": 464,
-      "y": 368,
-      "zOrder": 134,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -8700,22 +7233,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallHole1",
-      "persistentUuid": "d179619e-64bf-4a1f-a098-b164522f7057",
-      "width": 0,
-      "x": 624,
-      "y": 400,
-      "zOrder": 180,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
       "height": 31,
@@ -8739,25 +7256,8 @@
       "keepRatio": true,
       "layer": "",
       "name": "NewTiledSprite4",
-      "persistentUuid": "6b286a85-32bc-4b03-a58e-cf3af7798b8b",
-      "width": 160,
-      "x": 688,
-      "y": 448,
-      "zOrder": 188,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 32,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewTiledSprite4",
       "persistentUuid": "52f3c9a7-d188-4cb7-af0c-2ac18fca2bc4",
-      "width": 80,
+      "width": 239,
       "x": 608,
       "y": 448,
       "zOrder": 189,
@@ -8778,40 +7278,6 @@
       "x": 469.3,
       "y": 258,
       "zOrder": 193,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 90,
-      "customSize": true,
-      "depth": 0.9924242424242423,
-      "height": 4.962121212121212,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewTiledSprite6",
-      "persistentUuid": "21838ec9-5191-4313-9299-233cde114a88",
-      "width": 131,
-      "x": 385,
-      "y": 76,
-      "zOrder": 194,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 270,
-      "customSize": true,
-      "depth": 1,
-      "height": 5,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewTiledSprite6",
-      "persistentUuid": "5e4148b5-2e35-44f3-8799-c2da791effbe",
-      "width": 416,
-      "x": -125,
-      "y": 382,
-      "zOrder": 194,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -8902,34 +7368,17 @@
       "initialVariables": []
     },
     {
-      "angle": 90,
+      "angle": 360,
       "customSize": true,
       "depth": 1,
       "height": 5,
       "keepRatio": true,
       "layer": "",
       "name": "NewTiledSprite6",
-      "persistentUuid": "2ec74352-e04d-4a25-ac64-4512b13ef630",
-      "width": 368,
-      "x": 198,
-      "y": 262,
-      "zOrder": 194,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 360,
-      "customSize": true,
-      "depth": 0.9956896551724138,
-      "height": 4.9784482758620685,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewTiledSprite6",
       "persistentUuid": "1c5dfed0-a0dc-45b4-981e-c5983a692ca6",
-      "width": 462,
-      "x": 384,
-      "y": 443,
+      "width": 239,
+      "x": 608,
+      "y": 444,
       "zOrder": 194,
       "numberProperties": [],
       "stringProperties": [],
@@ -8995,8 +7444,8 @@
       "layer": "",
       "name": "NewTiledSprite6",
       "persistentUuid": "f6a392d2-fe42-412c-a81c-68984b08e2da",
-      "width": 195,
-      "x": 877,
+      "width": 198,
+      "x": 875,
       "y": 540,
       "zOrder": 194,
       "numberProperties": [],
@@ -9096,8 +7545,8 @@
       "name": "NewTiledSprite6",
       "persistentUuid": "16907d11-4b25-4a4b-84a6-0007cb61ea7f",
       "width": 270,
-      "x": 706,
-      "y": 380,
+      "x": 705,
+      "y": 381,
       "zOrder": 194,
       "numberProperties": [],
       "stringProperties": [],
@@ -9112,9 +7561,9 @@
       "layer": "",
       "name": "NewTiledSprite6",
       "persistentUuid": "e2c8694d-044f-4eb2-ad52-dec462f30eb8",
-      "width": 176,
-      "x": 363,
-      "y": 294,
+      "width": 179,
+      "x": 361,
+      "y": 295,
       "zOrder": 194,
       "numberProperties": [],
       "stringProperties": [],
@@ -9128,9 +7577,9 @@
       "layer": "",
       "name": "NewTiledSprite6",
       "persistentUuid": "37228b75-a493-4040-b1c0-78ff973f3590",
-      "width": 215,
-      "x": 453,
-      "y": 380,
+      "width": 219,
+      "x": 452,
+      "y": 382,
       "zOrder": 194,
       "numberProperties": [],
       "stringProperties": [],
@@ -9144,7 +7593,7 @@
       "layer": "",
       "name": "NewTiledSprite6",
       "persistentUuid": "be88ae6f-8c79-448e-800e-3011d435960e",
-      "width": 89,
+      "width": 88,
       "x": 883,
       "y": 445,
       "zOrder": 194,
@@ -9263,8 +7712,8 @@
       "name": "Chest",
       "persistentUuid": "53eca0d7-868b-412c-8b54-266d1bc73155",
       "width": 36,
-      "x": 737,
-      "y": 362,
+      "x": 738,
+      "y": 330,
       "zOrder": 186,
       "numberProperties": [],
       "stringProperties": [],
@@ -9340,7 +7789,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "NewTiledSprite9",
+      "name": "brokenChest1",
       "persistentUuid": "bb07dfec-bf94-4a7d-85d4-0b464a8053dd",
       "width": 0,
       "x": 525,
@@ -9657,22 +8106,6 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 36,
-      "layer": "",
-      "name": "NewTiledSprite11",
-      "persistentUuid": "684153aa-30b1-4ed3-a988-1672245a4241",
-      "width": 228,
-      "x": 380,
-      "y": 444,
-      "zOrder": 199,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -9728,8 +8161,8 @@
       "name": "Chest1",
       "persistentUuid": "58d5be70-fe78-4b58-9944-f654c5669709",
       "width": 0,
-      "x": 81,
-      "y": 495,
+      "x": 80,
+      "y": 494,
       "zOrder": 205,
       "numberProperties": [],
       "stringProperties": [],
@@ -9794,7 +8227,7 @@
       "width": 0,
       "x": 672,
       "y": 341,
-      "zOrder": 2000,
+      "zOrder": 150,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -10849,7 +9282,7 @@
       "persistentUuid": "c2efefec-99e5-48d6-b60e-3d886e86d71f",
       "width": 8,
       "x": 80,
-      "y": 172,
+      "y": 174,
       "zOrder": 2006,
       "numberProperties": [],
       "stringProperties": [],
@@ -10916,8 +9349,8 @@
       "name": "NewTiledSprite15",
       "persistentUuid": "3c7d6902-4161-4943-9634-b6f08c47b103",
       "width": 351,
-      "x": 104,
-      "y": 3,
+      "x": 105,
+      "y": 4,
       "zOrder": 200,
       "numberProperties": [],
       "stringProperties": [],
@@ -10979,14 +9412,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 368,
+      "height": 378,
       "keepRatio": true,
       "layer": "",
       "locked": true,
       "name": "NewTiledSprite14",
       "persistentUuid": "f91d06c1-2406-4b84-8e15-a82f4e776572",
       "width": 8,
-      "x": 378,
+      "x": 376,
       "y": 76,
       "zOrder": 2012,
       "numberProperties": [],
@@ -10997,13 +9430,13 @@
       "angle": 180,
       "customSize": true,
       "depth": 1,
-      "height": 130,
+      "height": 133,
       "keepRatio": true,
       "layer": "",
       "name": "NewTiledSprite14",
       "persistentUuid": "978e0471-193a-45dc-89e8-56212e57ebdf",
       "width": 8,
-      "x": 447,
+      "x": 448,
       "y": 11,
       "zOrder": 2012,
       "numberProperties": [],
@@ -11017,11 +9450,12 @@
       "height": 45,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "NewTiledSprite15",
       "persistentUuid": "fc4b63a0-c171-400c-9bfa-639bd8c05802",
-      "width": 230,
-      "x": 378,
-      "y": 443,
+      "width": 232,
+      "x": 376,
+      "y": 445,
       "zOrder": 2010,
       "numberProperties": [],
       "stringProperties": [],
@@ -11259,7 +9693,7 @@
       "width": 13,
       "x": 193,
       "y": 511,
-      "zOrder": 2022,
+      "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -11475,23 +9909,6 @@
       "x": 398,
       "y": 439,
       "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 14,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Book1",
-      "persistentUuid": "fe57a5d3-e841-4582-a371-fdda0e617cd5",
-      "width": 12,
-      "x": 587,
-      "y": 290,
-      "zOrder": 2034,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -11862,11 +10279,12 @@
       "height": 17,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "ManaPotion",
       "persistentUuid": "a481ef53-ff4b-42fe-80b5-d34a18eef5c3",
       "width": 17,
-      "x": 494,
-      "y": 48,
+      "x": 433,
+      "y": 47,
       "zOrder": 2036,
       "numberProperties": [],
       "stringProperties": [],
@@ -11886,7 +10304,14 @@
       "zOrder": 2037,
       "numberProperties": [],
       "stringProperties": [],
-      "initialVariables": []
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "id",
+          "type": "number",
+          "value": 1
+        }
+      ]
     },
     {
       "angle": 0,
@@ -11900,6 +10325,266 @@
       "x": 614,
       "y": 260,
       "zOrder": 200,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 13,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "Book1",
+      "persistentUuid": "fb25374b-19d8-48dd-b34a-65b1eb6dbacd",
+      "width": 14,
+      "x": 385,
+      "y": 273,
+      "zOrder": 2038,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 16,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Book2",
+      "persistentUuid": "d095f702-18ce-4599-8a38-df941097d36d",
+      "width": 15,
+      "x": 911,
+      "y": 366,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 15,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Book3",
+      "persistentUuid": "529fe66c-90bc-46e6-b41d-a6404f88c3a9",
+      "width": 15,
+      "x": 610,
+      "y": 625,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 17,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Book4",
+      "persistentUuid": "582785b5-9926-4bfb-b2ac-01fcb78bdefd",
+      "width": 16,
+      "x": 959,
+      "y": 476,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 15,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Book5",
+      "persistentUuid": "cc74560e-d3ba-408d-8481-e96aebd58366",
+      "width": 15,
+      "x": 527,
+      "y": 456,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 1,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "Pumpkin_NPC",
+      "persistentUuid": "b07376d4-9dd9-4be0-8195-162fc759db7a",
+      "width": 0,
+      "x": 503,
+      "y": 420,
+      "zOrder": 500,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "id",
+          "type": "number",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 44,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "DetectionArea",
+      "persistentUuid": "b8cdf2b3-af2f-4414-b6d3-b9205a09d597",
+      "width": 55,
+      "x": 514,
+      "y": 413,
+      "zOrder": 500,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 3
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "parent",
+          "type": "number",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "keepRatio": true,
+      "layer": "Boundaries",
+      "name": "Boundaries",
+      "persistentUuid": "085e9e27-e650-44c1-8663-0491cad4dd0b",
+      "width": 15,
+      "x": 449,
+      "y": 415,
+      "zOrder": 2000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "id",
+          "type": "string",
+          "value": "left"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 55,
+      "keepRatio": true,
+      "layer": "Boundaries",
+      "locked": true,
+      "name": "Boundaries",
+      "persistentUuid": "30a975ea-4c2c-43f7-9668-139a98698b04",
+      "width": 15,
+      "x": 946,
+      "y": 416,
+      "zOrder": 2000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "id",
+          "type": "string",
+          "value": "right"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "CrackedFloor3",
+      "persistentUuid": "ced68ca2-4ba1-4e25-a46c-f0ef2ebf4af2",
+      "width": 0,
+      "x": 432,
+      "y": 48,
+      "zOrder": -2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Hole",
+      "persistentUuid": "e99274f6-ea09-4c41-8fab-f685b0cd1884",
+      "width": 0,
+      "x": 384,
+      "y": 272,
+      "zOrder": -2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 13,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ManaPotion",
+      "persistentUuid": "5748e711-840d-4ef2-86a4-8b388c9dc979",
+      "width": 13,
+      "x": 538,
+      "y": 337,
+      "zOrder": 2040,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "id",
+          "type": "number",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 9,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "d443bb90-d3f0-4abd-a90d-5ed3abdfc4c9",
+      "width": 32,
+      "x": 527,
+      "y": 342,
+      "zOrder": 2041,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -12795,66 +11480,6 @@
     },
     {
       "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "d896e5f53c8db7f3e086e9b0f06b009443013f38969420a13bae4476202a1f3c",
-      "name": "WallHole1",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Wall Hole 1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 16
-                      },
-                      {
-                        "x": 0,
-                        "y": 16
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "15ec7b67fb1faeb0793a6f645166566cc1dea7a9d76038a1f513a4b1381847a7",
       "name": "Floor",
       "type": "Sprite",
@@ -13363,13 +11988,18 @@
     {
       "assetStoreId": "",
       "height": 24,
-      "name": "NewTiledSprite9",
+      "name": "brokenChest1",
       "texture": "decorative5.png2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 37,
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ]
     },
     {
       "assetStoreId": "",
@@ -13697,73 +12327,6 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Boundaries",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [
-        {
-          "name": "id",
-          "type": "string",
-          "value": "0"
-        }
-      ],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "Boundaries",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Boundaries",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
       "name": "CrackedFloor",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -13896,14 +12459,26 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": true,
+      "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "ManaPotion",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "id",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -13931,19 +12506,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 1,
-                        "y": 0
+                        "x": 6.5,
+                        "y": 9.5
                       },
                       {
-                        "x": 30,
-                        "y": 0
+                        "x": 24,
+                        "y": 9
                       },
                       {
-                        "x": 30,
+                        "x": 24,
                         "y": 31
                       },
                       {
-                        "x": 1,
+                        "x": 6.5,
                         "y": 31
                       }
                     ]
@@ -14260,6 +12835,148 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "CrackedFloor3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\frames\\floor_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Hole",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\frames\\hole.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": []
     }
   ],
   "objectsFolderStructure": {
@@ -14269,29 +12986,27 @@
         "folderName": "Floor",
         "children": [
           {
+            "objectName": "Floor"
+          },
+          {
             "objectName": "SpikeFloor"
+          },
+          {
+            "objectName": "CrackedFloor"
           },
           {
             "objectName": "CrackedFloor2"
           },
           {
-            "objectName": "CrackedFloor"
-          }
-        ]
-      },
-      {
-        "folderName": "NewFolder",
-        "children": [
+            "objectName": "CrackedFloor3"
+          },
           {
-            "objectName": "WallHole1"
+            "objectName": "Hole"
           }
         ]
       },
       {
         "objectName": "FloorStairs"
-      },
-      {
-        "objectName": "Floor"
       },
       {
         "folderName": "wall",
@@ -14350,6 +13065,9 @@
         "folderName": "chests_in _rooms",
         "children": [
           {
+            "objectName": "brokenChest1"
+          },
+          {
             "objectName": "NewTiledSprite8"
           },
           {
@@ -14370,9 +13088,6 @@
         "objectName": "NewTiledSprite7"
       },
       {
-        "objectName": "NewTiledSprite9"
-      },
-      {
         "objectName": "mainlevWall"
       },
       {
@@ -14382,13 +13097,16 @@
         "objectName": "NewTiledSprite16"
       },
       {
-        "objectName": "Boundaries"
-      },
-      {
         "objectName": "ManaPotion"
       },
       {
         "objectName": "bomb"
+      },
+      {
+        "objectName": "NewSprite"
+      },
+      {
+        "objectName": "NewSprite2"
       }
     ]
   },
@@ -14484,7 +13202,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "movement",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14657,7 +13374,6 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -15442,6 +14158,124 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Lever"
+        },
+        {
+          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Lever",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "Lever",
+                "Toggle",
+                "Toggle",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Lever",
+                    "Toggle",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Lever",
+                    "Animation",
+                    "=",
+                    "\"right\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Lever",
+                    "Toggle",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Lever",
+                    "Animation",
+                    "=",
+                    "\"left\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -15504,6 +14338,388 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Show/Hide ManaPotion0, and Dialogue\n"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "CrackedFloor3",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    "id",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "CrackedFloor3",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    "id",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "ManaPotion"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Knight_Player",
+                    "ManaPotion",
+                    "30",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DialogueTree::IsDialogueRunning"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    "id",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scrollText\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::StartDialogueFromBranch"
+                  },
+                  "parameters": [
+                    "\"ManaPotion\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "Mana",
+                    "=",
+                    "10",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Show/Hide ManaPotion1, and Dialogue\n"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "brokenChest1",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    "id",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "brokenChest1",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    "id",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "ManaPotion"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Knight_Player",
+                    "ManaPotion",
+                    "30",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DialogueTree::IsDialogueRunning"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    "id",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scrollText\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::StartDialogueFromBranch"
+                  },
+                  "parameters": [
+                    "\"ManaPotion\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "Mana",
+                    "=",
+                    "10",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "ManaPotion",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Show/Hide Book_0, and Dialogue of Book_0\n"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -15600,6 +14816,542 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Knight_Player",
+                    "Book",
+                    "30",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DialogueTree::IsDialogueRunning"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scrollText\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::StartDialogueFromBranch"
+                  },
+                  "parameters": [
+                    "\"Books\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Book",
+                    "Read",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Book",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Show/Hide Book_1, and Dialogue of Book_1\n"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Hole",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Book1",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Hole",
+                    "Knight_Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Book1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Knight_Player",
+                    "Book1",
+                    "30",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DialogueTree::IsDialogueRunning"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scrollText\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::StartDialogueFromBranch"
+                  },
+                  "parameters": [
+                    "\"Book_1\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Book1",
+                    "Read",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Book1",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Show/Hide Book_2, and Dialogue of Book_2"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Knight_Player",
+                    "Book2",
+                    "30",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DialogueTree::IsDialogueRunning"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scrollText\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::StartDialogueFromBranch"
+                  },
+                  "parameters": [
+                    "\"Book_2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Book2",
+                    "Read",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Book2",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Knight_Player",
+                    "Book3",
+                    "30",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DialogueTree::IsDialogueRunning"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scrollText\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::StartDialogueFromBranch"
+                  },
+                  "parameters": [
+                    "\"Book_3\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Book3",
+                    "Read",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Book3",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Knight_Player",
+                    "Book4",
+                    "30",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DialogueTree::IsDialogueRunning"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scrollText\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::StartDialogueFromBranch"
+                  },
+                  "parameters": [
+                    "\"Book_4\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Book4",
+                    "Read",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Book4",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Knight_Player",
+                    "Book5",
+                    "30",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DialogueTree::IsDialogueRunning"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scrollText\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::StartDialogueFromBranch"
+                  },
+                  "parameters": [
+                    "\"Book_5\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Book5",
+                    "Read",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Book5",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Show/Hide Chest"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "CollisionNP"
                   },
                   "parameters": [
@@ -15687,75 +15439,8 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "e"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Knight_Player",
-                    "Book",
-                    "30",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "DialogueTree::IsDialogueRunning"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"scrollText\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "DialogueTree::StartDialogueFromBranch"
-                  },
-                  "parameters": [
-                    "\"Books\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetBooleanObjectVariable"
-                  },
-                  "parameters": [
-                    "Book",
-                    "Read",
-                    "True",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Book",
-                    ""
-                  ]
-                }
-              ]
+              "conditions": [],
+              "actions": []
             }
           ],
           "parameters": []
@@ -15944,6 +15629,78 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Prisoner1",
+                "30",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Jeff_dialogueState",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DialogueTree::IsDialogueRunning"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"scrollText\""
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"End_Prisoner_1\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Jeff_dialogueState",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -15985,6 +15742,16 @@
                 "value": "DialogueTree::IsDialogueRunning"
               },
               "parameters": []
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Elizabeth_dialogueState",
+                "=",
+                "0"
+              ]
             }
           ],
           "actions": [
@@ -16021,6 +15788,106 @@
               "parameters": [
                 "Mana_UI",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Elizabeth_dialogueState",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Elizabeth",
+                "30",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DialogueTree::IsDialogueRunning"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Elizabeth_dialogueState",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"scrollText\""
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"Start_Elizabeth\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Mana",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Mana_UI",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Elizabeth_dialogueState",
+                "=",
+                "2"
               ]
             }
           ]
@@ -16178,6 +16045,7 @@
           "comment": "Guards walking\n"
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -16206,7 +16074,6 @@
           ],
           "events": [
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -16287,7 +16154,6 @@
               ]
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -16367,6 +16233,207 @@
               ]
             }
           ]
+        },
+        {
+          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "Pumpkin_NPC",
+                "id",
+                "=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Pumpkin_NPC",
+                "Draggable",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Pumpkin_NPC",
+                "Animation",
+                "=",
+                "\"Run\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Pumpkin_NPC",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::SimulateControl"
+                  },
+                  "parameters": [
+                    "Pumpkin_NPC",
+                    "TopDownMovement",
+                    "\"Right\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "Boundaries",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "Boundaries",
+                        "id",
+                        "=",
+                        "\"right\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "RotateTowardAngle"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "180",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Pumpkin_NPC",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::SimulateControl"
+                  },
+                  "parameters": [
+                    "Pumpkin_NPC",
+                    "TopDownMovement",
+                    "\"Left\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "Boundaries",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "Boundaries",
+                        "id",
+                        "=",
+                        "\"left\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "RotateTowardAngle"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "0",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Pumpkin_NPC",
+                        "Flippable",
+                        "no"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
@@ -16376,7 +16443,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Dialogue",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
