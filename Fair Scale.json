@@ -2148,6 +2148,114 @@
         "name": "assets\\frames\\hole.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Ladder.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Floor_Ladder.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/decorative5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\decorative5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/decorative.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\decorative.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Items/Envolop.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Items\\Envolop.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/EndingPicture/Ending1.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\EndingPicture\\Ending1.webp",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/EndingPicture/Ending2.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\EndingPicture\\Ending2.webp",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/EndingPicture/Ending3.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\EndingPicture\\Ending3.webp",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Floor_Cracks6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/wall_banner_blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\wall_banner_blue.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/wall_banner_green.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\wall_banner_green.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/wall_banner_red.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\wall_banner_red.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2613,7 +2721,12 @@
       "width": 52,
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ]
     },
     {
       "assetStoreId": "",
@@ -4510,7 +4623,12 @@
       "type": "BitmapText::BitmapTextObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "content": {
         "text": "Press E to Interact",
         "opacity": 255,
@@ -4894,13 +5012,9 @@
       "effects": [],
       "behaviors": [
         {
-          "checkCollisionMask": true,
           "name": "Draggable",
-          "type": "DraggableBehavior::Draggable"
-        },
-        {
-          "name": "YSort",
-          "type": "YSort::YSort"
+          "type": "DraggableBehavior::Draggable",
+          "checkCollisionMask": true
         }
       ],
       "animations": [
@@ -5655,6 +5769,21 @@
         },
         {
           "name": "ManaPotion"
+        },
+        {
+          "name": "envelope"
+        },
+        {
+          "name": "Flag"
+        },
+        {
+          "name": "Flag2"
+        },
+        {
+          "name": "Flag3"
+        },
+        {
+          "name": "Flag4"
         }
       ]
     }
@@ -5699,7 +5828,15 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/floor_two"
+      "referenceTo": "/layouts/ending1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/ending2"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/credit"
     }
   ],
   "externalEvents": [

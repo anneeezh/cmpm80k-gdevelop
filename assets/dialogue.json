@@ -118,5 +118,65 @@
 			"y": 130
 		},
 		"colorID": 0
+	},
+	{
+		"title": "Hidden",
+		"tags": "",
+		"body": "<< nameTag Player>>\nHm... That's weird, I can sense something under it.",
+		"position": {
+			"x": 244,
+			"y": -34
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Envelope_Hint",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n\"There are two paths in the maze: left and right.\"\n\"Left: You must think outside the room. It’s a test of wit and imagination, but it’s quite easy if you figure it out.\"\n\"Right: This path has no traps. It’s straightforward but take longer.\"\n\n(suddenly notices the envelope heating up in his hand)\nWhat the...?\n(throws the burning envelope to the ground, watching as it completely disintegrates into ashes)\nI guess that’s one way to keep secrets. Better get rid of this before it burns my hand.",
+		"position": {
+			"x": 554,
+			"y": -127
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Flag_Hint1",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n1) Blue",
+		"position": {
+			"x": 1118,
+			"y": 452
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Flag_Hint2",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n2) Red",
+		"position": {
+			"x": 1414,
+			"y": 472
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Flag_Hint3",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n3) Yellow",
+		"position": {
+			"x": 1110,
+			"y": 754
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Flag_Hint4",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n4) Green",
+		"position": {
+			"x": 1415,
+			"y": 767
+		},
+		"colorID": 0
 	}
 ]

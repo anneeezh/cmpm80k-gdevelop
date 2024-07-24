@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5290357402156842,
+    "zoomFactor": 0.7370816317994033,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -50,8 +50,8 @@
       "name": "Start",
       "persistentUuid": "d53ad0b3-cf9f-4876-8b63-7561d42f97a2",
       "width": 0,
-      "x": 155,
-      "y": 450,
+      "x": 154,
+      "y": 400,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -85,6 +85,22 @@
       "x": 155,
       "y": 600,
       "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Credits",
+      "persistentUuid": "4413b032-112b-4f2d-bae7-234f593432af",
+      "width": 0,
+      "x": 154,
+      "y": 464,
+      "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -275,7 +291,7 @@
           "italic": true,
           "smoothed": true,
           "underlined": false,
-          "string": "Option",
+          "string": "Achievement",
           "font": "Charm-Regular.ttf",
           "textAlignment": "center",
           "characterSize": 40,
@@ -298,7 +314,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Option",
+            "text": "Achievement",
             "font": "Charm-Regular.ttf",
             "textAlignment": "center",
             "characterSize": 40,
@@ -399,6 +415,89 @@
           "width": 998
         }
       }
+    },
+    {
+      "assetStoreId": "e80b6352d9f27049db858db6a22ad1351febb242a738de07155a6ac8301ea5c5",
+      "name": "Credits",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 0,
+        "RightPadding": 0,
+        "PressedLabelOffsetY": 2,
+        "BottomPadding": 0,
+        "TopPadding": 0,
+        "HoveredFadeOutDuration": 0.2
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 0,
+          "height": 54,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Red Button With Metal Frame_Hovered.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 998
+        },
+        "Idle": {
+          "bottomMargin": 0,
+          "height": 54,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Red Button With Metal Frame_Idle.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 998
+        },
+        "Label": {
+          "bold": true,
+          "italic": true,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Credits",
+          "font": "Charm-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": true,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Credits",
+            "font": "Charm-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 0,
+          "height": 54,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Red Button With Metal Frame_Pressed.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 998
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -415,6 +514,9 @@
       },
       {
         "objectName": "Quit"
+      },
+      {
+        "objectName": "Credits"
       }
     ]
   },
@@ -493,6 +595,32 @@
           "parameters": [
             "",
             "\"OptionMenu\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+          },
+          "parameters": [
+            "Credits",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Credit\"",
             ""
           ]
         }
