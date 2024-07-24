@@ -2338,6 +2338,159 @@
         "name": "assets\\frames\\angel_run_anim_f3.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewTiledSprite13.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"NewTiledSprite13.png\",\"extension\":\".png\"}",
+        "name": "NewTiledSprite13.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewTiledSprite14.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"NewTiledSprite14.png\",\"extension\":\".png\"}",
+        "name": "NewTiledSprite14.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewTiledSprite15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewTiledSprite15.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/bed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\bed.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/barrel sideways.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\barrel sideways.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/barrel up.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\barrel up.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/blood pot 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\blood pot 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/blood pot 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\blood pot 2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/clay pot 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\clay pot 1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/clay pot 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\clay pot 2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/water pot 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\water pot 1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/water pot 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\water pot 2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/small box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\small box.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/long table.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\long table.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/chair left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\chair left.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/pen n feather.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\pen n feather.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/chair foward.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\chair foward.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
