@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.4873021103500346,
+    "zoomFactor": 1.0326795116711502,
     "windowMask": false
   },
   "objectsGroups": [
@@ -9005,22 +9005,6 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "Bed",
-      "persistentUuid": "7342fd0f-cd2e-4af9-a416-92aa4c676e76",
-      "width": 0,
-      "x": 171,
-      "y": 545,
-      "zOrder": 2000,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
       "name": "table",
       "persistentUuid": "c0036f09-f8ce-47f6-b1d7-0c72df53b3eb",
       "width": 0,
@@ -9287,6 +9271,22 @@
       "x": 139,
       "y": 484,
       "zOrder": 5053,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bed",
+      "persistentUuid": "5f88283f-a4d5-4e64-969b-195a8747ef00",
+      "width": 0,
+      "x": 170,
+      "y": 527,
+      "zOrder": 2000,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -13124,66 +13124,6 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Bed",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\frames\\bed.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 32,
-                        "y": 0
-                      },
-                      {
-                        "x": 32,
-                        "y": 55
-                      },
-                      {
-                        "x": 0,
-                        "y": 55
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
       "name": "barrel_sideways",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -13900,6 +13840,17 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 54,
+      "name": "bed",
+      "texture": "assets\\frames\\bed.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -13909,7 +13860,7 @@
         "folderName": "Decor",
         "children": [
           {
-            "objectName": "Bed"
+            "objectName": "bed"
           },
           {
             "objectName": "barrel_sideways"
@@ -15067,7 +15018,6 @@
           "comment": "Show/Hide Interactable Hint\n"
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
