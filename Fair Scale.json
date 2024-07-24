@@ -2021,6 +2021,114 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/a1f71ca4cfb367163f7e3c16fbf0f60da08de326f00249881ff1057f63789c95_Scroll.png",
           "name": "Scroll.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/White Square Decorated Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "77717e5c1f84f3ba9a3dd6e314bc0bdc3233351c657e8f6df40b7f50e8911b2b_White Square Decorated Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/77717e5c1f84f3ba9a3dd6e314bc0bdc3233351c657e8f6df40b7f50e8911b2b_White Square Decorated Button_Hovered.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Items/Blue Potion 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Items\\Blue Potion 3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/floor_spikes_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\floor_spikes_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/floor_spikes_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\floor_spikes_anim_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/floor_spikes_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\floor_spikes_anim_f2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/floor_spikes_anim_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\floor_spikes_anim_f3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Hit 3.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "088e0b9d13d953fab6044c64cde8aa941c06c904ccf7dc9fe5f6bc4f62fd558f_Hit 3.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Hit/088e0b9d13d953fab6044c64cde8aa941c06c904ccf7dc9fe5f6bc4f62fd558f_Hit 3.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/knight_f_hit_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\knight_f_hit_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/bomb_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\bomb_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/bomb_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\bomb_f1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/frames/bomb_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\frames\\bomb_f2.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2426,6 +2534,54 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Hit",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\frames\\knight_f_hit_anim_f0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 15
+                      },
+                      {
+                        "x": 15,
+                        "y": 15
+                      },
+                      {
+                        "x": 15,
+                        "y": 28
+                      },
+                      {
+                        "x": 0,
+                        "y": 28
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -2449,7 +2605,12 @@
       "width": 95,
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ]
     },
     {
       "assetStoreId": "",
@@ -2460,7 +2621,12 @@
       "width": 160,
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ]
     },
     {
       "assetStoreId": "",
@@ -2642,11 +2808,8 @@
       "effects": [],
       "behaviors": [
         {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior",
-          "canBeGrabbed": true,
-          "platformType": "NormalPlatform",
-          "yGrabOffset": 0
+          "name": "YSort",
+          "type": "YSort::YSort"
         }
       ],
       "animations": [
@@ -2709,7 +2872,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "Door Frame Top",
@@ -2831,7 +2999,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -4691,7 +4864,17 @@
         }
       ],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "checkCollisionMask": true,
+          "name": "Draggable",
+          "type": "DraggableBehavior::Draggable"
+        },
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "left",
@@ -5124,6 +5307,66 @@
         "align": "left",
         "wordWrap": true
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "WhiteBackGround",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "77717e5c1f84f3ba9a3dd6e314bc0bdc3233351c657e8f6df40b7f50e8911b2b_White Square Decorated Button_Hovered.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 192,
+                        "y": 0
+                      },
+                      {
+                        "x": 192,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -5227,6 +5470,9 @@
         "folderName": "UIs",
         "children": [
           {
+            "objectName": "WhiteBackGround"
+          },
+          {
             "objectName": "Heart_UI"
           },
           {
@@ -5290,6 +5536,9 @@
         },
         {
           "name": "Elizabeth"
+        },
+        {
+          "name": "Lever"
         }
       ]
     }
