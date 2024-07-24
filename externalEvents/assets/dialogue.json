@@ -1,0 +1,182 @@
+[
+	{
+		"title": "Found",
+		"tags": "",
+		"body": "<<nameTag Guards >>\nStop Right There!\n<<nameTag Player >>\nOh no... I have to find a way to go around him.",
+		"position": {
+			"x": 535,
+			"y": 142
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Start_Prisoner_1",
+		"tags": "",
+		"body": "<<nameTag Jeff>>\nYou have finally awake.\n<<nameTag Player>>\nuh... Who am I?\n<<nameTag Jeff >>\nWhat!? You lose your memory?\n<<nameTag Player>>\nI can't remember all my past.\n<<nameTag Jeff>>\nWell, I can't help you with that. Try escaping my friend.\n<<nameTag Player>>\nBut... I'm a knight. Justice won't allow me to escape.\n<<nameTag Jeff>>\nscrew Justice. This is Hell. Everyone is trying to escape.\n<<nameTag Player>>\nWhat should I do then?\n<<nameTag Jeff>>\nTry talking with her.",
+		"position": {
+			"x": -276,
+			"y": 346
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Books",
+		"tags": "",
+		"body": "<<nameTag Book>>\nIntroduction:\n<<nameTag Book>>\n\"In the heart of the medieval village of Eldershire, where dense forests whisper ancient secrets and rivers sing the songs of yore, lived a young boy with dreams of grandeur and adventure.\"\n\n<<nameTag Player>>\nWhere is the rest of the pages?",
+		"position": {
+			"x": 294,
+			"y": 473
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Start_Elizabeth",
+		"tags": "",
+		"body": "<<nameTag Player>>\nWhere am I? Who are you?\n<<nameTag Elizabeth>>\nYou're in the depths of the castle, imprisoned like many who have crossed the wrong people. My name is Elizabeth. I’ve been down here longer than I care to remember.\n<<nameTag Player>>\nI can’t remember anything. My head... it feels like it's been split open. How did I get here?\n<<nameTag Elizabeth>>\nYou were brought in unconscious. \n<<nameTag Player>>\nWhat... How do I escape this place?\n<<nameTag Elizabeth>>\nEscape won’t be easy, but I believe you have a gift, one that even you might not realize yet. There are tales of knights with unique abilities, those who could turn their surroundings to their advantage.\n<<nameTag Player>>\nA gift? What kind of gift?\n<<nameTag Elizabeth >>\nI can’t say for sure. But look around you. The MOUSE might guide you. You might find you have the power to influence them in ways you never thought possible.\n<<nameTag Player>>\nAlright, I’ll keep that in mind. Thank you, Elizabeth.",
+		"position": {
+			"x": -271,
+			"y": 93
+		},
+		"colorID": 1
+	},
+	{
+		"title": "Book_1",
+		"tags": "",
+		"body": "<<nameTag Book>> \nEarly Life and Training:\nBorn to humble farmers, this boy was instilled with the virtues of hard work and honesty. His days were spent tending to fields, but his heart yearned for the mysteries that lay beyond.\n\nAt the tender age of 12, fate led him to Sir Reginald, a knight of old, whose dwelling lay on the village's outskirts. The boy, driven by an insatiable curiosity and a yearning for valor, begged Sir Reginald to take him under his wing.\n\n<<nameTag Player>> \nUghhhh, I... I remembered...\n\nWait, Is that... me?",
+		"position": {
+			"x": 568,
+			"y": 472
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Book_2",
+		"tags": "",
+		"body": "<<nameTag Book>> \nRise to Knighthood:\nYears passed, and the boy, now a young man, mastered the arts of combat and chivalry. His bravery shone in skirmishes against bandits, earning him the respect of Eldershire's people.\n\nHis moment of glory came when he saved the lord's daughter from a treacherous kidnapping. For this act of heroism, he was knighted and celebrated as a beacon of justice.\n\n<<nameTag Player>>\nRight! I remembered...\n\nI saved my lord's daughter...\n\n<<nameTag Player >>\nBut, Why am I at the Prison?",
+		"position": {
+			"x": 841,
+			"y": 474
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Book_3",
+		"tags": "",
+		"body": "<<nameTag Book>>\nA Mysterious Mission:\nThe knight's valor reached distant lands, and soon, a secretive summons arrived, calling him to aid a faraway kingdom. He set forth, braving perilous terrains and gathering loyal companions.\n\n<<nameTag Player>>\n...",
+		"position": {
+			"x": 286,
+			"y": 755
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Book_4",
+		"tags": "",
+		"body": "<< nameTag Book>>\nThe Betrayal:\nYet, upon reaching the kingdom, treachery struck. Betrayed by a trusted ally, the knight was captured and imprisoned in the depths of a formidable castle, where darkness and danger loomed at every corner.\n\n<< nameTag Player>>\nRIGHT, I GOT BETRAYED...",
+		"position": {
+			"x": 565,
+			"y": 760
+		},
+		"colorID": 8
+	},
+	{
+		"title": "Book_5",
+		"tags": "",
+		"body": "<<nameTag Book>>\nLoss of Memory and Current Predicament:\nA fierce struggle left the knight gravely injured, and when he awoke, his mind was shrouded in fog. He found himself in a labyrinthine basement, filled with traps, puzzles, and the shadows of his past.\n<<nameTag Player>>\nWait a minute, the book is telling my past!? \n\n<<nameTag Book>> \nStripped of his memory, he must rely on instinct and skill to navigate this perilous maze, uncovering fragments of his identity and the truth behind his betrayal.\n\n<<nameTag Player>>\nWho wrote this book? How did they know my past and my situation.",
+		"position": {
+			"x": 829,
+			"y": 751
+		},
+		"colorID": 0
+	},
+	{
+		"title": "End_Elizabeth",
+		"tags": "",
+		"body": "<<nameTag Elizabeth>>\nRemember Trust is a double-edged sword. Not all who seem like allies have pure intentions.",
+		"position": {
+			"x": -43,
+			"y": 93
+		},
+		"colorID": 1
+	},
+	{
+		"title": "End_Prisoner_1",
+		"tags": "",
+		"body": "<<nameTag Jeff>> \nThe key to your past lies hidden in the depths of this castle. Search diligently, for every clue is a step closer to your true self.",
+		"position": {
+			"x": -35,
+			"y": 349
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ManaPotion",
+		"tags": "",
+		"body": "<<nameTag Player >> \nYeah, a mana potion, that will help me\n(+10 Mana)",
+		"position": {
+			"x": 808,
+			"y": 130
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Hidden",
+		"tags": "",
+		"body": "<< nameTag Player>>\nHm... That's weird, I can sense something under it.",
+		"position": {
+			"x": 244,
+			"y": -34
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Envelope_Hint",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n\"There are two paths in the maze: left and right.\"\n\"Left: You must think outside the room. It’s a test of wit and imagination, but it’s quite easy if you figure it out.\"\n\"Right: This path has no traps. It’s straightforward but take longer.\"\n\n(suddenly notices the envelope heating up in his hand)\nWhat the...?\n(throws the burning envelope to the ground, watching as it completely disintegrates into ashes)\nI guess that’s one way to keep secrets. Better get rid of this before it burns my hand.",
+		"position": {
+			"x": 554,
+			"y": -127
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Flag_Hint1",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n1) Blue",
+		"position": {
+			"x": 1118,
+			"y": 452
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Flag_Hint2",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n2) Red",
+		"position": {
+			"x": 1414,
+			"y": 472
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Flag_Hint3",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n3) Yellow",
+		"position": {
+			"x": 1110,
+			"y": 754
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Flag_Hint4",
+		"tags": "",
+		"body": "<<nameTag Player >>\n(opens the envelope and reads aloud)\n4) Green",
+		"position": {
+			"x": 1415,
+			"y": 767
+		},
+		"colorID": 0
+	}
+]
