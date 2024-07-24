@@ -12,7 +12,7 @@
 	{
 		"title": "Start_Prisoner_1",
 		"tags": "",
-		"body": "<<nameTag Jeff>>\nYou have finally awake.\n<<nameTag Player>>\nuh... Who am I?\n<<nameTag Jeff >>\nWhat!? You lose your memory?\n<<nameTag Player>>\nI can't remember all my past.\n<<nameTag Jeff>>\nWell, I can't help you with that. Try escaping my friend.\n<<nameTag Player>>\nBut... I'm a knight. Justice won't allow me to escape.\n<<nameTag Jeff>>\nscrew Justice. This is Hell. Everyone is trying to escape.\n<<nameTag Player>>\nWhat should I do then?\n<<nameTag Jeff>>\nTry talking with her.",
+		"body": "<<nameTag Jeff>>\r\nYou have finally awakened.\r\n<<nameTag Player>>\r\nuh... Who am I?\r\n<<nameTag Jeff >>\r\nWhat!? Did you lose your memory?\r\n<<nameTag Player>>\r\nI can't remember all my past.\r\n<<nameTag Jeff>>\r\nWell, I can't help you with that. Try escaping, my friend.\r\n<<nameTag Player>>\r\nBut... I'm a knight. Justice won't allow me to escape.\r\n<<nameTag Jeff>>\r\nscrew Justice. This is Hell. Everyone is trying to escape.\r\n<<nameTag Player>>\r\nWhat should I do then?\r\n<<nameTag Jeff>>\r\nTry talking with her.",
 		"position": {
 			"x": -276,
 			"y": 346
@@ -176,6 +176,26 @@
 		"position": {
 			"x": 1415,
 			"y": 767
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Start_Angel",
+		"tags": "",
+		"body": "<< nameTag Player>>\nHello, who are you?\n<< nameTag Angel>> \nI'm Angel. I've been wandering these halls for what feels like an eternity. I’ve seen many come and go, but few make it far. You, though, you seem different.\n<< nameTag Player>>\nI’m trying to escape this place. Can you help me?\n<< nameTag Angel>> \nPerhaps. There’s a puzzle you must solve to progress further. It involves four flags. Each one can change color when interacted with.\n<< nameTag Player>>\nFour flags? What do I need to do with them?\n<< nameTag Angel>> \nThe key lies in getting the flags to display a specific color order. Once you have the right combination, a hidden chest will reveal itself.\n<< nameTag Player>>\nHow do I know what the right order is?\n<<nameTag Angel>>\nPay attention to the clues scattered around the room.\n<<nameTag Player >>\nAlright, thank you so much!\n",
+		"position": {
+			"x": -273,
+			"y": 582
+		},
+		"colorID": 0
+	},
+	{
+		"title": "End_Angle",
+		"tags": "",
+		"body": "<<nameTage Angle>>\nBeware the shadows that lurk, for they hold the power to both reveal and deceive.",
+		"position": {
+			"x": -34,
+			"y": 582
 		},
 		"colorID": 0
 	}

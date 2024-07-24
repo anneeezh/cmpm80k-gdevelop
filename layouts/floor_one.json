@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.6219266597083624,
+    "zoomFactor": 1.3292689700715228,
     "windowMask": false
   },
   "objectsGroups": [
@@ -45,22 +45,6 @@
       "x": 96,
       "y": 176,
       "zOrder": 7,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "6c7a4e49-60ac-418a-b1a2-8c7a6c873494",
-      "width": 0,
-      "x": 176,
-      "y": 176,
-      "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -179,22 +163,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "FullNortheastCorner",
-      "persistentUuid": "1da5d297-c931-43ff-a0be-347e2ed1eec9",
-      "width": 0,
-      "x": 192,
-      "y": 160,
-      "zOrder": 21,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
       "height": 385,
@@ -281,76 +249,12 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "WallMid",
-      "persistentUuid": "b4dab716-4dce-45a2-b7ed-f6c5c665b6d8",
-      "width": 0,
-      "x": 176,
-      "y": 192,
-      "zOrder": 30,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallRight",
-      "persistentUuid": "96921e7b-bdfd-4783-ada7-3d88f3b8794e",
-      "width": 0,
-      "x": 192,
-      "y": 192,
-      "zOrder": 31,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidLeft",
-      "persistentUuid": "c40e69b8-078c-44c7-aa13-76e6e21e6a48",
-      "width": 0,
-      "x": 192,
-      "y": 192,
-      "zOrder": 32,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
       "name": "WallTopMid",
       "persistentUuid": "00a9f4e4-3742-4ce8-9307-cfd3bd699fd4",
       "width": 0,
       "x": 96,
       "y": 160,
       "zOrder": 39,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallTopMid",
-      "persistentUuid": "b87ec577-3de2-48b3-b065-86cdb934ed3c",
-      "width": 0,
-      "x": 176,
-      "y": 160,
-      "zOrder": 44,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1056,22 +960,6 @@
       "x": 96,
       "y": 96,
       "zOrder": 102,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WallSideMidRight",
-      "persistentUuid": "a7abef3a-64ae-4777-9f16-bd68dbe3ba59",
-      "width": 0,
-      "x": 176,
-      "y": 160,
-      "zOrder": -3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -3268,8 +3156,8 @@
       "name": "Knight_Player",
       "persistentUuid": "6441bc76-2d9a-4e75-8c61-05d4af433717",
       "width": 0,
-      "x": 133,
-      "y": 510,
+      "x": 134,
+      "y": 397,
       "zOrder": 200,
       "numberProperties": [],
       "stringProperties": [],
@@ -6704,23 +6592,6 @@
       "initialVariables": []
     },
     {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0.9333333333333335,
-      "height": 4.666666666666667,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewTiledSprite6",
-      "persistentUuid": "55bb20b1-920b-4d21-9f1a-5f83ab62dca8",
-      "width": 44.8,
-      "x": 163,
-      "y": 172,
-      "zOrder": 194,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
       "angle": 90,
       "customSize": true,
       "depth": 0.96875,
@@ -7745,9 +7616,9 @@
       "layer": "",
       "name": "NewTiledSprite13",
       "persistentUuid": "74d1c6b3-67a7-4601-ae60-9e725bf798d9",
-      "width": 47,
+      "width": 48,
       "x": 80,
-      "y": 169,
+      "y": 163,
       "zOrder": 200,
       "numberProperties": [],
       "stringProperties": [],
@@ -7762,9 +7633,9 @@
       "layer": "",
       "name": "NewTiledSprite13",
       "persistentUuid": "bb9a5fa1-c59b-4adb-9576-9a0745089444",
-      "width": 46,
+      "width": 48,
       "x": 161,
-      "y": 171,
+      "y": 163,
       "zOrder": 200,
       "numberProperties": [],
       "stringProperties": [],
@@ -7791,7 +7662,7 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 167,
+      "height": 161,
       "keepRatio": true,
       "layer": "",
       "name": "NewTiledSprite14",
@@ -7808,7 +7679,7 @@
       "angle": 180,
       "customSize": true,
       "depth": 1,
-      "height": 97,
+      "height": 88,
       "keepRatio": true,
       "layer": "",
       "name": "NewTiledSprite14",
@@ -10163,6 +10034,22 @@
       "x": 768,
       "y": 272,
       "zOrder": 5001,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Angel",
+      "persistentUuid": "80ae0ce9-c6b7-4f22-aae8-57a46ce4d411",
+      "width": 0,
+      "x": 656,
+      "y": 334,
+      "zOrder": 5002,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -14055,6 +13942,22 @@
             "30",
             "1"
           ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "Mana"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "Mana_UI"
+          ]
         }
       ]
     },
@@ -14341,7 +14244,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Ability",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14540,11 +14442,37 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::IsEmpty"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "Mana",
-                    "Draggable"
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::IsEmpty"
+                      },
+                      "parameters": [
+                        "Mana",
+                        "Draggable"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Visible"
+                      },
+                      "parameters": [
+                        "Mana"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Visible"
+                      },
+                      "parameters": [
+                        "Mana_UI"
+                      ]
+                    }
                   ]
                 }
               ],
@@ -14755,6 +14683,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Interactable",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -17502,7 +17431,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "NPC",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -17935,6 +17863,162 @@
               },
               "parameters": [
                 "Elizabeth_dialogueState",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Dialogue with Angel"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Angel",
+                "30",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DialogueTree::IsDialogueRunning"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Angel_dialogueState",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"scrollText\""
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"Start_Angel\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Angel_dialogueState",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Angel",
+                "30",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DialogueTree::IsDialogueRunning"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Angel_dialogueState",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"scrollText\""
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"End_Angel\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Angel_dialogueState",
                 "=",
                 "2"
               ]
@@ -18492,7 +18576,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Dialogue",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -19134,6 +19217,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Goal",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
