@@ -2256,6 +2256,16 @@
         "name": "assets\\frames\\wall_banner_red.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "assets/BGM/lost rune of the wind princess.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\BGM\\lost rune of the wind princess.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -5811,6 +5821,18 @@
       "name": "textScrollSpeed",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "Ending1",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "Ending2",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -5824,7 +5846,7 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/optionmenu"
+      "referenceTo": "/layouts/achievement"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,

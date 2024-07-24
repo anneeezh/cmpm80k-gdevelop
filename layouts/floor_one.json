@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.0538807304181548,
+    "zoomFactor": 1.6219266597083624,
     "windowMask": false
   },
   "objectsGroups": [
@@ -14043,6 +14043,18 @@
           "parameters": [
             "Floor_Stairs"
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "assets\\BGM\\lost rune of the wind princess.aac",
+            "yes",
+            "30",
+            "1"
+          ]
         }
       ]
     },
@@ -18480,6 +18492,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Dialogue",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -19121,7 +19134,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Goal",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -19206,7 +19218,6 @@
           "comment": "Ending One/Two"
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -19312,6 +19323,16 @@
                     "\"Ending2\"",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Ending2",
+                    "True",
+                    ""
+                  ]
                 }
               ]
             },
@@ -19401,6 +19422,16 @@
                   "parameters": [
                     "",
                     "\"Ending1\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Ending1",
+                    "True",
                     ""
                   ]
                 }

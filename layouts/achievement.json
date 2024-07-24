@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Credit",
-  "name": "Credit",
+  "mangledName": "Achievement",
+  "name": "Achievement",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.7619362677197598,
+    "zoomFactor": 0.7130377630690395,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,15 +28,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 752,
+      "height": 748,
       "keepRatio": true,
       "layer": "",
-      "locked": true,
       "name": "NewSprite",
-      "persistentUuid": "bdf39fc7-fdf7-4640-b4ce-28b5948a722c",
-      "width": 1317,
-      "x": -22,
-      "y": -8,
+      "persistentUuid": "24a5d73f-9e25-4450-868c-8681f733042d",
+      "width": 1291,
+      "x": -9,
+      "y": -13,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -45,14 +44,14 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1.0673234811165846,
-      "height": 500,
+      "depth": 1,
+      "height": 80,
       "layer": "",
       "name": "NewText",
-      "persistentUuid": "34100963-e0fd-4b47-b6d8-15547f5cc870",
-      "width": 600,
-      "x": 675,
-      "y": 60,
+      "persistentUuid": "ddf6c36e-0121-4a86-bc30-23e711d34326",
+      "width": 1280,
+      "x": 0,
+      "y": 114,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -65,10 +64,10 @@
       "keepRatio": true,
       "layer": "",
       "name": "RedButtonWithMetalFrame",
-      "persistentUuid": "d869135e-7235-41ff-9961-54dc43c68983",
+      "persistentUuid": "715f9b6e-1f7e-432a-a280-566bfd238ad6",
       "width": 0,
-      "x": 146,
-      "y": 640,
+      "x": 143,
+      "y": 639,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -78,14 +77,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 41,
-      "keepRatio": true,
+      "height": 80,
       "layer": "",
-      "name": "Title",
-      "persistentUuid": "cd822847-9790-47fd-a363-d738ddfee753",
-      "width": 1275,
-      "x": 1,
-      "y": 15,
+      "name": "NewText2",
+      "persistentUuid": "4efb2da6-d158-42a6-9c4b-f919f49a6c94",
+      "width": 1280,
+      "x": 0,
+      "y": 219,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -94,14 +92,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1,
-      "height": 500,
+      "depth": 1.032258064516129,
+      "height": 42.322580645161295,
+      "keepRatio": true,
       "layer": "",
-      "name": "NewText2",
-      "persistentUuid": "5ee93b5c-5c54-4f6b-81a0-ace7375a568f",
-      "width": 600,
+      "name": "NewText3",
+      "persistentUuid": "788eacc0-65d0-4b87-a73e-1f9beba8c665",
+      "width": 1280,
       "x": 0,
-      "y": 60,
+      "y": 21,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -168,6 +167,47 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "NewText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Ending 1: ???\n",
+      "font": "Charm-Regular.ttf",
+      "textAlignment": "center",
+      "characterSize": 30,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Ending 1: ???\n",
+        "font": "Charm-Regular.ttf",
+        "textAlignment": "center",
+        "characterSize": 30,
+        "color": "255;255;255"
+      }
     },
     {
       "assetStoreId": "e80b6352d9f27049db858db6a22ad1351febb242a738de07155a6ac8301ea5c5",
@@ -256,47 +296,6 @@
       "assetStoreId": "",
       "bold": false,
       "italic": false,
-      "name": "NewText",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "\nKin Yin Ho(Ben)\n\nEskarlet Nava Aquino ,Anne Zheng\n\nAnne Zheng\n\n16x16 Dungeon TileSet from gDevelop5\n\nfrom gDevelop5 public music file\n\nMinifantasy_Deungon_SFX",
-      "font": "Charm-Regular.ttf",
-      "textAlignment": "left",
-      "characterSize": 30,
-      "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "\nKin Yin Ho(Ben)\n\nEskarlet Nava Aquino ,Anne Zheng\n\nAnne Zheng\n\n16x16 Dungeon TileSet from gDevelop5\n\nfrom gDevelop5 public music file\n\nMinifantasy_Deungon_SFX",
-        "font": "Charm-Regular.ttf",
-        "textAlignment": "left",
-        "characterSize": 30,
-        "color": "255;255;255"
-      }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
       "name": "NewText2",
       "smoothed": true,
       "type": "TextObject::Text",
@@ -304,48 +303,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "\nEvent Sheet\n\nLevel Design\n\nStory Plot\n\nArt Asset\n\nMusic Asset\n\nSFX Asset",
-      "font": "Charm-Regular.ttf",
-      "textAlignment": "right",
-      "characterSize": 30,
-      "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "\nEvent Sheet\n\nLevel Design\n\nStory Plot\n\nArt Asset\n\nMusic Asset\n\nSFX Asset",
-        "font": "Charm-Regular.ttf",
-        "textAlignment": "right",
-        "characterSize": 30,
-        "color": "255;255;255"
-      }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "Title",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "GDevelop Game Group 6",
+      "string": "Ending 2: ???\n",
       "font": "Charm-Regular.ttf",
       "textAlignment": "center",
       "characterSize": 30,
@@ -368,7 +326,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "GDevelop Game Group 6",
+        "text": "Ending 2: ???\n",
         "font": "Charm-Regular.ttf",
         "textAlignment": "center",
         "characterSize": 30,
@@ -376,15 +334,45 @@
       }
     },
     {
-      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "NewSprite2",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
+      "bold": false,
+      "italic": false,
+      "name": "NewText3",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "animations": []
+      "string": "Achievement:",
+      "font": "Charm-Regular.ttf",
+      "textAlignment": "center",
+      "characterSize": 40,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Achievement:",
+        "font": "Charm-Regular.ttf",
+        "textAlignment": "center",
+        "characterSize": 40,
+        "color": "255;255;255"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -394,23 +382,76 @@
         "objectName": "NewSprite"
       },
       {
-        "objectName": "RedButtonWithMetalFrame"
-      },
-      {
         "objectName": "NewText"
-      },
-      {
-        "objectName": "NewSprite2"
       },
       {
         "objectName": "NewText2"
       },
       {
-        "objectName": "Title"
+        "objectName": "NewText3"
+      },
+      {
+        "objectName": "RedButtonWithMetalFrame"
       }
     ]
   },
   "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "BooleanVariable"
+          },
+          "parameters": [
+            "Ending1",
+            "True",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "NewText",
+            "Text",
+            "=",
+            "\"Ending 1: A Fleeting Freedom\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "BooleanVariable"
+          },
+          "parameters": [
+            "Ending2",
+            "True",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "NewText2",
+            "Text",
+            "=",
+            "\"Ending 2: The Return of the Knight\""
+          ]
+        }
+      ]
+    },
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [

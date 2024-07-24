@@ -63,7 +63,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "Option",
+      "name": "Achievement",
       "persistentUuid": "5a49f8bc-ec70-4783-ad8d-2b7efbbf0dd6",
       "width": 0,
       "x": 155,
@@ -252,7 +252,7 @@
     },
     {
       "assetStoreId": "e80b6352d9f27049db858db6a22ad1351febb242a738de07155a6ac8301ea5c5",
-      "name": "Option",
+      "name": "Achievement",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -510,7 +510,7 @@
         "objectName": "Start"
       },
       {
-        "objectName": "Option"
+        "objectName": "Achievement"
       },
       {
         "objectName": "Quit"
@@ -582,7 +582,7 @@
             "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
-            "Option",
+            "Achievement",
             ""
           ]
         }
@@ -594,7 +594,7 @@
           },
           "parameters": [
             "",
-            "\"OptionMenu\"",
+            "\"Achievement\"",
             ""
           ]
         }
