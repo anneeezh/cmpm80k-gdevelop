@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.10349831892031,
+    "zoomFactor": 1.2189358455737476,
     "windowMask": false
   },
   "objectsGroups": [
@@ -5310,7 +5310,7 @@
       "width": 0,
       "x": 496,
       "y": 128,
-      "zOrder": -19,
+      "zOrder": -50,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -6193,7 +6193,7 @@
       "width": 129,
       "x": 80,
       "y": 581,
-      "zOrder": 2005,
+      "zOrder": 2007,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -7670,7 +7670,7 @@
       "width": 0,
       "x": 512,
       "y": 128,
-      "zOrder": 173,
+      "zOrder": -50,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -7687,7 +7687,7 @@
       "width": 0,
       "x": 528,
       "y": 128,
-      "zOrder": 173,
+      "zOrder": -50,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -7738,7 +7738,7 @@
       "width": 0,
       "x": 544,
       "y": 128,
-      "zOrder": 173,
+      "zOrder": -50,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -7755,7 +7755,7 @@
       "width": 0,
       "x": 560,
       "y": 128,
-      "zOrder": 173,
+      "zOrder": -50,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -9237,8 +9237,8 @@
       "name": "Knight_Player",
       "persistentUuid": "1824f696-e08c-4dc0-934e-2e1764766d86",
       "width": 0,
-      "x": 139,
-      "y": 484,
+      "x": 131,
+      "y": 486,
       "zOrder": 5053,
       "numberProperties": [],
       "stringProperties": [],
@@ -9392,6 +9392,40 @@
       "x": 172,
       "y": 528,
       "zOrder": 5054,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 22,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "75f0f31e-aa44-419d-964e-4e2f135f0097",
+      "width": 36,
+      "x": 574,
+      "y": 361,
+      "zOrder": 2042,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 38,
+      "keepRatio": true,
+      "layer": "",
+      "name": "NewTiledSprite15",
+      "persistentUuid": "c3461008-f10d-4f00-a843-2b4e8bf04a77",
+      "width": 67,
+      "x": 509,
+      "y": 137,
+      "zOrder": -20,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -13604,12 +13638,7 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [
-        {
-          "name": "YSort",
-          "type": "YSort::YSort"
-        }
-      ],
+      "behaviors": [],
       "animations": [
         {
           "name": "",
