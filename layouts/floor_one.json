@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.998993133462888,
+    "zoomFactor": 1.4873021103500346,
     "windowMask": false
   },
   "objectsGroups": [
@@ -9271,6 +9271,22 @@
       "x": 711,
       "y": 480,
       "zOrder": 2000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Knight_Player",
+      "persistentUuid": "1824f696-e08c-4dc0-934e-2e1764766d86",
+      "width": 0,
+      "x": 139,
+      "y": 484,
+      "zOrder": 5053,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
