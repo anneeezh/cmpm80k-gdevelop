@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.0326795116711502,
+    "zoomFactor": 1.10349831892031,
     "windowMask": false
   },
   "objectsGroups": [
@@ -32,7 +32,20 @@
     },
     {
       "name": "Decor",
-      "objects": []
+      "objects": [
+        {
+          "name": "barrel_sideways"
+        },
+        {
+          "name": "barrel_up"
+        },
+        {
+          "name": "table"
+        },
+        {
+          "name": "chair"
+        }
+      ]
     }
   ],
   "variables": [],
@@ -9205,54 +9218,6 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "chair",
-      "persistentUuid": "5c2c908e-454c-4538-8195-c213f09cc90f",
-      "width": 0,
-      "x": 619,
-      "y": 587,
-      "zOrder": 2000,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "chair",
-      "persistentUuid": "86db1e6b-ddee-4597-9705-ad21fac3d3c5",
-      "width": 0,
-      "x": 619,
-      "y": 577,
-      "zOrder": 1999,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "chair",
-      "persistentUuid": "e388bcfd-8981-42b5-8350-39c31f6e365a",
-      "width": 0,
-      "x": 619,
-      "y": 603,
-      "zOrder": 505,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
       "name": "small_box",
       "persistentUuid": "4d349e78-042d-4689-9188-9ee196932258",
       "width": 0,
@@ -9291,6 +9256,142 @@
       "x": 170,
       "y": 527,
       "zOrder": 2000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 29,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "5449d118-5f1d-473a-a3b7-5b7a07843c10",
+      "width": 49,
+      "x": 86,
+      "y": 428,
+      "zOrder": 5054,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 18,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "c68f950d-7e06-4a41-9138-266a541fc08f",
+      "width": 13,
+      "x": 105,
+      "y": 415,
+      "zOrder": 5054,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 27,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "cb736df7-64aa-4d21-a405-e5a815d4761b",
+      "width": 16,
+      "x": 185,
+      "y": 360,
+      "zOrder": 5054,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 17,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "8e3f9b68-56d5-4f57-8ac9-d94cb8cd7438",
+      "width": 14,
+      "x": 466,
+      "y": 167,
+      "zOrder": 5054,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 27,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "e8591405-1b39-4ce7-963d-300f8e9e6d94",
+      "width": 16,
+      "x": 578,
+      "y": 271,
+      "zOrder": 5054,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 28,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "f18dc42e-1f06-4374-9222-ed91be9a42ed",
+      "width": 10,
+      "x": 914,
+      "y": 268,
+      "zOrder": 5054,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 19,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "90fd80ec-3dbe-4571-a6bc-83d3c9ffb782",
+      "width": 13,
+      "x": 478,
+      "y": 363,
+      "zOrder": 5054,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 55,
+      "keepRatio": true,
+      "layer": "Collision",
+      "name": "CollsionMask",
+      "persistentUuid": "ef1dec8f-a215-4a9b-a63b-77338c92daff",
+      "width": 29,
+      "x": 172,
+      "y": 528,
+      "zOrder": 5054,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -13313,7 +13414,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -13373,7 +13479,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -13493,7 +13604,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -13613,7 +13729,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -13673,7 +13794,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -13733,7 +13859,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -13854,7 +13985,12 @@
       "width": 32,
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -14978,35 +15114,6 @@
               "parameters": [
                 "Knight_Player",
                 "Interactable",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Knight_Player",
-                "Interactable",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Knight_Player",
-                "Decor",
                 "",
                 "",
                 ""
