@@ -29,6 +29,10 @@
           "name": "Knight_Player"
         }
       ]
+    },
+    {
+      "name": "Decor",
+      "objects": []
     }
   ],
   "variables": [],
@@ -14974,6 +14978,35 @@
               "parameters": [
                 "Knight_Player",
                 "Interactable",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Interactable",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Knight_Player",
+                "Decor",
                 "",
                 "",
                 ""
